@@ -1,0 +1,2627 @@
+[
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 6.58,
+    "annee": "2013"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.3,
+    "annee": "2012"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 31.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 15.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.8,
+    "annee": "2011"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 16.3,
+    "annee": "2010"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 0.38,
+    "annee": "2013"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 7.73,
+    "annee": "2013"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 11.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 4.13,
+    "annee": "2012"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 19.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 35.9,
+    "annee": "2017"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 19.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 28.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 17.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 34.6,
+    "annee": "2011"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 21.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 18.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 9.14,
+    "annee": "2016"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 17.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 19.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 12.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 25.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.7,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 13.4,
+    "annee": "2011"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 19.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 15.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 21.4,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 5.68,
+    "annee": "2014"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 5.01,
+    "annee": "2012"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 15.4,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 17.6,
+    "annee": "2012"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 20.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 15.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 19.7,
+    "annee": "2017"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 5.94,
+    "annee": "2013"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.4,
+    "annee": "2017"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 20.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 8.86,
+    "annee": "2015"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 26.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.41000000000000003,
+    "annee": "2014"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.9,
+    "annee": "2011"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 21.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 10.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 10.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 4.6,
+    "annee": "2013"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 16.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 0.93,
+    "annee": "2013"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 10.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 15.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.6,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 8.33,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 18.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.32,
+    "annee": "2011"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 19.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.7,
+    "annee": "2013"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 24.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 4.92,
+    "annee": "2015"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 15.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.3,
+    "annee": "2012"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 21.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 21.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 7.06,
+    "annee": "2013"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.2,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 3.21,
+    "annee": "2015"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 21.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.6,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 18.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 18.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 17.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.3,
+    "annee": "2016"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 19.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 7.79,
+    "annee": "2016"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 16.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 19.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 19.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 9.15,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.3,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 2.68,
+    "annee": "2013"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 15.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 15.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 30.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 5.8,
+    "annee": "2013"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 21.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 44.5,
+    "annee": "2010"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 28.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.8,
+    "annee": "2010"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 12.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 19.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 19.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 7.55,
+    "annee": "2013"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 2.48,
+    "annee": "2012"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 19.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "718007",
+    "gare_enquetee": "Besan\u00e7on-Viotte",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 100.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 7.82,
+    "annee": "2016"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 12.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 7.74,
+    "annee": "2017"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.1,
+    "annee": "2011"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 24.7,
+    "annee": "2016"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.1,
+    "annee": "2011"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 30.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 13.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 13.7,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 1.8900000000000001,
+    "annee": "2012"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 70.8,
+    "annee": "2013"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 16.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 13.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 9.28,
+    "annee": "2016"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 14.6,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 22.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 4.02,
+    "annee": "2013"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 4.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.7,
+    "annee": "2011"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.8,
+    "annee": "2010"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.11,
+    "annee": "2013"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 15.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.2,
+    "annee": "2011"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.2,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 9.9,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 11.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 15.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.3,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 19.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 17.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 24.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 26.6,
+    "annee": "2011"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 12.6,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 1.24,
+    "annee": "2013"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.3,
+    "annee": "2016"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 15.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 20.6,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 19.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 18.1,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 23.8,
+    "annee": "2012"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 2.23,
+    "annee": "2015"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 15.3,
+    "annee": "2017"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 27.9,
+    "annee": "2017"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 21.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 13.6,
+    "annee": "2014"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 43.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.8,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 4.48,
+    "annee": "2013"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 18.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 1.08,
+    "annee": "2014"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 29.7,
+    "annee": "2016"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 19.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 19.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 9.81,
+    "annee": "2017"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 23.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.3,
+    "annee": "2012"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 9.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.3,
+    "annee": "2010"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 9.51,
+    "annee": "2016"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 20.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 19.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 8.05,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 6.51,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 17.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 35.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 11.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 18.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 6.72,
+    "annee": "2010"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.6,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 12.6,
+    "annee": "2014"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 21.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.3,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 1.69,
+    "annee": "2013"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 21.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 16.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 5.44,
+    "annee": "2012"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 9.81,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.24,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 9.89,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 12.6,
+    "annee": "2014"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.6,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 27.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 20.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.3,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.3,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 11.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 20.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.7,
+    "annee": "2013"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 20.3,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 17.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 4.84,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 21.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 9.44,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.2,
+    "annee": "2011"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 23.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 10.4,
+    "annee": "2011"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 7.89,
+    "annee": "2011"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.7,
+    "annee": "2017"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 13.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 19.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 34.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.7,
+    "annee": "2013"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.8,
+    "annee": "2016"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.16,
+    "annee": "2011"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 6.96,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 17.5,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 7.94,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 12.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 13.3,
+    "annee": "2014"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 12.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 15.1,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 14.7,
+    "annee": "2014"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 32.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 23.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 3.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.5,
+    "annee": "2012"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 2.8,
+    "annee": "2016"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.8,
+    "annee": "2011"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 7.57,
+    "annee": "2013"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 3.22,
+    "annee": "2017"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 28.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 12.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 13.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 17.3,
+    "annee": "2016"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 7.28,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 3.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 1.12,
+    "annee": "2013"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.29,
+    "annee": "2013"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 6.84,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 15.6,
+    "annee": "2015"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 25.4,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 18.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 25.7,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.5,
+    "annee": "2012"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 19.2,
+    "annee": "2017"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 11.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 6.65,
+    "annee": "2010"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 13.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 24.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 25.3,
+    "annee": "2017"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 7.73,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 19.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 11.2,
+    "annee": "2011"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 12.3,
+    "annee": "2013"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 84.8,
+    "annee": "2013"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 18.8,
+    "annee": "2012"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 19.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 13.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 17.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 17.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 9.75,
+    "annee": "2016"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 21.6,
+    "annee": "2010"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 18.3,
+    "annee": "2010"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 26.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 9.79,
+    "annee": "2017"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 10.3,
+    "annee": "2015"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 18.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 15.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 7.67,
+    "annee": "2010"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 26.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.3,
+    "annee": "2014"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 2.05,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 13.7,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 5.08,
+    "annee": "2013"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 26.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 14.6,
+    "annee": "2011"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 17.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 7.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 24.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 5.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 11.7,
+    "annee": "2012"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 16.3,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 14.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 16.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 17.5,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 14.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "classe_d_age": "19 ans et moins",
+    "pourcentage": 8.12,
+    "annee": "2010"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 11.1,
+    "annee": "2014"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 15.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 32.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 19.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 12.6,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 0.13,
+    "annee": "2015"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "classe_d_age": "50 ans \u00e0 59 ans",
+    "pourcentage": 15.8,
+    "annee": "2011"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "classe_d_age": "Non communiqu\u00e9",
+    "pourcentage": 2.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 12.7,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "classe_d_age": "30 ans \u00e0 39 ans",
+    "pourcentage": 21.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "classe_d_age": "60 ans et plus",
+    "pourcentage": 10.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "classe_d_age": "20 ans \u00e0 29 ans",
+    "pourcentage": 24.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "classe_d_age": "40 ans \u00e0 49 ans",
+    "pourcentage": 13.6,
+    "annee": "2014"
+  }
+]

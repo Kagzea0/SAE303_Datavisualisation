@@ -1,0 +1,4881 @@
+[
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Militaire",
+    "pourcentage": 4.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 22.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 15.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 0.8,
+    "annee": "2013"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 17.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 38.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 8.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Autre",
+    "pourcentage": 0.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Militaire",
+    "pourcentage": 0.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Militaire",
+    "pourcentage": 0.8,
+    "annee": "2016"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Sans emploi",
+    "pourcentage": 6.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 25.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Militaire",
+    "pourcentage": 0.9,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Autre",
+    "pourcentage": 0.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 21.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 6.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 38.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 15.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 15.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 27.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 24.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 34.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 7.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 27.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 13.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 8.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 22.0,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Militaire",
+    "pourcentage": 0.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 24.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Sans emploi",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Militaire",
+    "pourcentage": 0.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 14.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 8.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 17.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 26.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Autre",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 5.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 20.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 20.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 4.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 18.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 23.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Autre",
+    "pourcentage": 0.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Autre",
+    "pourcentage": 0.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.1,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 13.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 28.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 11.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2017"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Militaire",
+    "pourcentage": 0.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Sans emploi",
+    "pourcentage": 8.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Autre",
+    "pourcentage": 0.6000000000000001,
+    "annee": "2014"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 27.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Militaire",
+    "pourcentage": 0.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Autre",
+    "pourcentage": 0.4,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 21.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 23.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 18.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 32.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 21.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Autre",
+    "pourcentage": 6.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 9.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 5.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Sans emploi",
+    "pourcentage": 8.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 18.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Autre",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 20.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Militaire",
+    "pourcentage": 0.8,
+    "annee": "2010"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Sans emploi",
+    "pourcentage": 6.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.9,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 28.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 15.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 21.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.6000000000000001,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 19.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 23.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Militaire",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2012"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 36.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 27.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 20.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 19.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 16.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Militaire",
+    "pourcentage": 0.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 0.8,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Sans emploi",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 18.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Autre",
+    "pourcentage": 2.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 19.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 15.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Autre",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2013"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 26.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 13.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Autre",
+    "pourcentage": 0.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 12.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 15.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2015"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 23.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 13.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2015"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 14.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 7.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 24.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 29.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 28.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 27.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Autre",
+    "pourcentage": 0.9,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 11.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 37.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 17.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "718007",
+    "gare_enquetee": "Besan\u00e7on-Viotte",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 15.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Militaire",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2016"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Sans emploi",
+    "pourcentage": 8.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 19.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2010"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 13.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 10.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Autre",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 12.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 17.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 22.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 25.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Autre",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.6000000000000001,
+    "annee": "2015"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 15.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2013"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 11.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Sans emploi",
+    "pourcentage": 8.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Autre",
+    "pourcentage": 6.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 25.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Militaire",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 6.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 13.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Militaire",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 7.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 1.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2016"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Autre",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 23.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 0.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 1.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 64.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Autre",
+    "pourcentage": 0.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 16.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Militaire",
+    "pourcentage": 0.9,
+    "annee": "2014"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Militaire",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Autre",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 38.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Militaire",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2016"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Autre",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2010"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 25.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 7.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Militaire",
+    "pourcentage": 0.5,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 14.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 18.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 69.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Autre",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 8.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 11.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 11.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 19.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 23.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 20.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Militaire",
+    "pourcentage": 0.8,
+    "annee": "2014"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 16.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 24.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 45.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Sans emploi",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 7.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 17.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 29.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 26.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 40.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.5,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.6000000000000001,
+    "annee": "2014"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 26.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.5,
+    "annee": "2014"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 5.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 15.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 31.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Militaire",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2013"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Militaire",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 9.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 13.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Sans emploi",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 19.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 6.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 18.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 16.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 9.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Autre",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2017"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 38.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 27.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 20.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 25.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 4.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 36.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 15.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 28.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 33.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 12.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Sans emploi",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 25.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2013"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Militaire",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 26.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Sans emploi",
+    "pourcentage": 2.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 10.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 18.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 12.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 27.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Autre",
+    "pourcentage": 8.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "677005",
+    "gare_enquetee": "Hendaye",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 9.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 19.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 36.0,
+    "annee": "2012"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2013"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 22.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 17.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 19.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 8.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Militaire",
+    "pourcentage": 0.1,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 7.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Autre",
+    "pourcentage": 0.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Militaire",
+    "pourcentage": 0.4,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 18.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 14.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Sans emploi",
+    "pourcentage": 10.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 16.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "142109",
+    "gare_enquetee": "Lorraine TGV",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.5,
+    "annee": "2017"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 23.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 85.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 7.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 23.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Militaire",
+    "pourcentage": 0.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 10.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2014"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 19.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 2.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Autre",
+    "pourcentage": 4.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 16.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Militaire",
+    "pourcentage": 0.8,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 5.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Autre",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Militaire",
+    "pourcentage": 0.2,
+    "annee": "2012"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 19.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Militaire",
+    "pourcentage": 0.9,
+    "annee": "2016"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 21.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2012"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 18.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 28.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 7.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "182014",
+    "gare_enquetee": "Colmar",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 23.0,
+    "annee": "2017"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2011"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Militaire",
+    "pourcentage": 0.4,
+    "annee": "2016"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 23.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Militaire",
+    "pourcentage": 0.1,
+    "annee": "2016"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 13.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "784009",
+    "gare_enquetee": "Perpignan",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 24.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "csp": "Sans emploi",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 10.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 6.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.30000000000000004,
+    "annee": "2011"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 8.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 17.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 22.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "csp": "Sans emploi",
+    "pourcentage": 6.0,
+    "annee": "2014"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 1.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 8.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 11.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 26.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 12.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 4.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.2,
+    "annee": "2015"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.9,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "csp": "Sans emploi",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "csp": "Sans emploi",
+    "pourcentage": 2.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.4,
+    "annee": "2012"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "csp": "Sans emploi",
+    "pourcentage": 7.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Autre",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Autre",
+    "pourcentage": 8.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "csp": "Militaire",
+    "pourcentage": 1.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 30.0,
+    "annee": "2013"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 8.0,
+    "annee": "2012"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 0.5,
+    "annee": "2012"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 5.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Sans emploi",
+    "pourcentage": 9.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 8.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 5.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 6.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "csp": "Militaire",
+    "pourcentage": 0.2,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 3.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 20.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 31.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Autre",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 18.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 14.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "csp": "Militaire",
+    "pourcentage": 0.5,
+    "annee": "2013"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "csp": "Militaire",
+    "pourcentage": 4.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "673400",
+    "gare_enquetee": "Biarritz",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 11.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 6.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "csp": "Sans emploi",
+    "pourcentage": 3.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 28.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 1.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "csp": "Ouvrier, Employ\u00e9",
+    "pourcentage": 24.0,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.7000000000000001,
+    "annee": "2015"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "csp": "Autre",
+    "pourcentage": 1.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 14.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "csp": "Technicien, Agent de ma\u00eetrise",
+    "pourcentage": 8.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "csp": "Etudiant (apr\u00e8s le bac)",
+    "pourcentage": 1.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 8.0,
+    "annee": "2011"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Enseignant, Professeur",
+    "pourcentage": 4.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Sans emploi",
+    "pourcentage": 9.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 15.0,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "csp": "Militaire",
+    "pourcentage": 0.8,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2012"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "csp": "Cadre, Profession lib\u00e9rale ou intellectuelle, Chef d'entreprise > 10 salari\u00e9s",
+    "pourcentage": 25.0,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 3.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 2.0,
+    "annee": "2013"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 3.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "csp": "Scolaire (avant le bac)",
+    "pourcentage": 14.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Non communiqu\u00e9",
+    "pourcentage": 44.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Agriculteur, Exploitant agricole",
+    "pourcentage": 0.1,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Retrait\u00e9",
+    "pourcentage": 6.0,
+    "annee": "2010"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "csp": "Artisan, Commer\u00e7ant, Chef d'entreprise TPE",
+    "pourcentage": 2.0,
+    "annee": "2016"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "csp": "Militaire",
+    "pourcentage": 2.0,
+    "annee": "2014"
+  }
+]

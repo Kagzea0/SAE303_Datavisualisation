@@ -1,0 +1,744 @@
+[
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2012"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "sexe": "H",
+    "pourcentage": 46,
+    "annee": "2011"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "sexe": "F",
+    "pourcentage": 43,
+    "annee": "2013"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "sexe": "H",
+    "pourcentage": 53,
+    "annee": "2013"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "sexe": "H",
+    "pourcentage": 49,
+    "annee": "2013"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2014"
+  },
+  {
+    "uic": "686006",
+    "gare_enquetee": "Paris Gare de Lyon",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2012"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2012"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "sexe": "F",
+    "pourcentage": 45,
+    "annee": "2015"
+  },
+  {
+    "uic": "286005",
+    "gare_enquetee": "Lille Flandres",
+    "sexe": "F",
+    "pourcentage": 51,
+    "annee": "2013"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "sexe": "F",
+    "pourcentage": 53,
+    "annee": "2012"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "sexe": "H",
+    "pourcentage": 48,
+    "annee": "2013"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "sexe": "F",
+    "pourcentage": 49,
+    "annee": "2016"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "sexe": "H",
+    "pourcentage": 55,
+    "annee": "2012"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "sexe": "H",
+    "pourcentage": 46,
+    "annee": "2015"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2014"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "sexe": "H",
+    "pourcentage": 56,
+    "annee": "2014"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "sexe": "H",
+    "pourcentage": 51,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2015"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "sexe": "F",
+    "pourcentage": 51,
+    "annee": "2014"
+  },
+  {
+    "uic": "718007",
+    "gare_enquetee": "Besan\u00e7on-Viotte",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2012"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2013"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "sexe": "H",
+    "pourcentage": 47,
+    "annee": "2015"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2011"
+  },
+  {
+    "uic": "223263",
+    "gare_enquetee": "Lille Europe",
+    "sexe": "H",
+    "pourcentage": 57,
+    "annee": "2013"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2011"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2016"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2014"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "sexe": "H",
+    "pourcentage": 51,
+    "annee": "2013"
+  },
+  {
+    "uic": "192039",
+    "gare_enquetee": "Metz",
+    "sexe": "F",
+    "pourcentage": 49,
+    "annee": "2016"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "sexe": "H",
+    "pourcentage": 46,
+    "annee": "2016"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2012"
+  },
+  {
+    "uic": "319012",
+    "gare_enquetee": "Aix en Provence-TGV",
+    "sexe": "H",
+    "pourcentage": 55,
+    "annee": "2015"
+  },
+  {
+    "uic": "747006",
+    "gare_enquetee": "Grenoble",
+    "sexe": "F",
+    "pourcentage": 53,
+    "annee": "2015"
+  },
+  {
+    "uic": "271494",
+    "gare_enquetee": "A\u00e9roport Charles de Gaulle 2 TGV",
+    "sexe": "F",
+    "pourcentage": 47,
+    "annee": "2013"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "sexe": "F",
+    "pourcentage": 59,
+    "annee": "2015"
+  },
+  {
+    "uic": "773002",
+    "gare_enquetee": "Montpellier Saint-Roch",
+    "sexe": "F",
+    "pourcentage": 54,
+    "annee": "2015"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "sexe": "H",
+    "pourcentage": 56,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2014"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2015"
+  },
+  {
+    "uic": "753657",
+    "gare_enquetee": "Arles",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2014"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2016"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "sexe": "F",
+    "pourcentage": 37,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "sexe": "F",
+    "pourcentage": 55,
+    "annee": "2015"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "sexe": "F",
+    "pourcentage": 54,
+    "annee": "2012"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "sexe": "F",
+    "pourcentage": 49,
+    "annee": "2014"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "sexe": "F",
+    "pourcentage": 51,
+    "annee": "2015"
+  },
+  {
+    "uic": "313874",
+    "gare_enquetee": "Amiens",
+    "sexe": "H",
+    "pourcentage": 41,
+    "annee": "2015"
+  },
+  {
+    "uic": "478404",
+    "gare_enquetee": "Laval",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2011"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2013"
+  },
+  {
+    "uic": "723197",
+    "gare_enquetee": "Lyon Part Dieu",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2011"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2014"
+  },
+  {
+    "uic": "384008",
+    "gare_enquetee": "Paris St Lazare",
+    "sexe": "F",
+    "pourcentage": 52,
+    "annee": "2013"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2012"
+  },
+  {
+    "uic": "171009",
+    "gare_enquetee": "Reims",
+    "sexe": "H",
+    "pourcentage": 51,
+    "annee": "2016"
+  },
+  {
+    "uic": "300863",
+    "gare_enquetee": "Besan\u00e7on Franche-Comt\u00e9 TGV",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2015"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "sexe": "F",
+    "pourcentage": 37,
+    "annee": "2016"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "sexe": "F",
+    "pourcentage": 51,
+    "annee": "2015"
+  },
+  {
+    "uic": "318964",
+    "gare_enquetee": "Avignon TGV",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2015"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "sexe": "H",
+    "pourcentage": 48,
+    "annee": "2014"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "sexe": "H",
+    "pourcentage": 55,
+    "annee": "2015"
+  },
+  {
+    "uic": "713040",
+    "gare_enquetee": "Dijon",
+    "sexe": "H",
+    "pourcentage": 45,
+    "annee": "2015"
+  },
+  {
+    "uic": "396002",
+    "gare_enquetee": "Le Mans",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2015"
+  },
+  {
+    "uic": "775007",
+    "gare_enquetee": "N\u00eemes",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2014"
+  },
+  {
+    "uic": "755009",
+    "gare_enquetee": "Toulon",
+    "sexe": "F",
+    "pourcentage": 44,
+    "annee": "2014"
+  },
+  {
+    "uic": "345025",
+    "gare_enquetee": "Lens",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2016"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "sexe": "F",
+    "pourcentage": 52,
+    "annee": "2014"
+  },
+  {
+    "uic": "481002",
+    "gare_enquetee": "Nantes",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2014"
+  },
+  {
+    "uic": "722025",
+    "gare_enquetee": "Lyon Perrache",
+    "sexe": "F",
+    "pourcentage": 54,
+    "annee": "2011"
+  },
+  {
+    "uic": "182063",
+    "gare_enquetee": "Mulhouse",
+    "sexe": "H",
+    "pourcentage": 48,
+    "annee": "2014"
+  },
+  {
+    "uic": "141002",
+    "gare_enquetee": "Nancy",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2014"
+  },
+  {
+    "uic": "391003",
+    "gare_enquetee": "Paris Montparnasse 1 et 2 + Vaugirard",
+    "sexe": "H",
+    "pourcentage": 46,
+    "annee": "2012"
+  },
+  {
+    "uic": "718007",
+    "gare_enquetee": "Besan\u00e7on-Viotte",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2012"
+  },
+  {
+    "uic": "444877",
+    "gare_enquetee": "Cherbourg",
+    "sexe": "F",
+    "pourcentage": 45,
+    "annee": "2015"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "sexe": "F",
+    "pourcentage": 43,
+    "annee": "2010"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "sexe": "H",
+    "pourcentage": 47,
+    "annee": "2013"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "sexe": "F",
+    "pourcentage": 51,
+    "annee": "2015"
+  },
+  {
+    "uic": "757625",
+    "gare_enquetee": "Cannes",
+    "sexe": "H",
+    "pourcentage": 49,
+    "annee": "2015"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2013"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "sexe": "F",
+    "pourcentage": 52,
+    "annee": "2014"
+  },
+  {
+    "uic": "111849",
+    "gare_enquetee": "Marne la Vall\u00e9e Chessy",
+    "sexe": "H",
+    "pourcentage": 50,
+    "annee": "2013"
+  },
+  {
+    "uic": "547000",
+    "gare_enquetee": "Paris Austerlitz",
+    "sexe": "F",
+    "pourcentage": 49,
+    "annee": "2013"
+  },
+  {
+    "uic": "476002",
+    "gare_enquetee": "Lorient",
+    "sexe": "H",
+    "pourcentage": 57,
+    "annee": "2010"
+  },
+  {
+    "uic": null,
+    "gare_enquetee": "Paris Bercy",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2012"
+  },
+  {
+    "uic": "271007",
+    "gare_enquetee": "Paris Nord",
+    "sexe": "F",
+    "pourcentage": 46,
+    "annee": "2012"
+  },
+  {
+    "uic": "444000",
+    "gare_enquetee": "Caen",
+    "sexe": "F",
+    "pourcentage": 48,
+    "annee": "2012"
+  },
+  {
+    "uic": "756056",
+    "gare_enquetee": "Nice",
+    "sexe": "H",
+    "pourcentage": 48,
+    "annee": "2014"
+  },
+  {
+    "uic": "411017",
+    "gare_enquetee": "Rouen Rive Droite",
+    "sexe": "H",
+    "pourcentage": 51,
+    "annee": "2014"
+  },
+  {
+    "uic": "471003",
+    "gare_enquetee": "Rennes",
+    "sexe": "F",
+    "pourcentage": 50,
+    "annee": "2014"
+  },
+  {
+    "uic": "300822",
+    "gare_enquetee": "Belfort Montb\u00e9liard TGV",
+    "sexe": "H",
+    "pourcentage": 63,
+    "annee": "2015"
+  },
+  {
+    "uic": "484006",
+    "gare_enquetee": "Angers Saint Laud",
+    "sexe": "H",
+    "pourcentage": 49,
+    "annee": "2015"
+  },
+  {
+    "uic": "583005",
+    "gare_enquetee": "Angoul\u00eame",
+    "sexe": "F",
+    "pourcentage": 45,
+    "annee": "2012"
+  },
+  {
+    "uic": "673004",
+    "gare_enquetee": "Bayonne",
+    "sexe": "F",
+    "pourcentage": 53,
+    "annee": "2013"
+  },
+  {
+    "uic": "393702",
+    "gare_enquetee": "Massy TGV",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2013"
+  },
+  {
+    "uic": "571000",
+    "gare_enquetee": "Tours",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2016"
+  },
+  {
+    "uic": "611004",
+    "gare_enquetee": "Toulouse Matabiau",
+    "sexe": "H",
+    "pourcentage": 49,
+    "annee": "2014"
+  },
+  {
+    "uic": "212027",
+    "gare_enquetee": "Strasbourg",
+    "sexe": "F",
+    "pourcentage": 54,
+    "annee": "2016"
+  },
+  {
+    "uic": "581009",
+    "gare_enquetee": "Bordeaux Saint-Jean",
+    "sexe": "F",
+    "pourcentage": 52,
+    "annee": "2014"
+  },
+  {
+    "uic": "751008",
+    "gare_enquetee": "Marseille Saint-Charles",
+    "sexe": "H",
+    "pourcentage": 52,
+    "annee": "2013"
+  },
+  {
+    "uic": "762906",
+    "gare_enquetee": "Lyon Saint Exupery TGV",
+    "sexe": "H",
+    "pourcentage": 63,
+    "annee": "2016"
+  },
+  {
+    "uic": "763029",
+    "gare_enquetee": "Valence TGV Rh\u00f4ne-Alpes Sud",
+    "sexe": "H",
+    "pourcentage": 54,
+    "annee": "2015"
+  },
+  {
+    "uic": "113001",
+    "gare_enquetee": "Paris Est",
+    "sexe": "H",
+    "pourcentage": 47,
+    "annee": "2012"
+  },
+  {
+    "uic": "575001",
+    "gare_enquetee": "Poitiers",
+    "sexe": "F",
+    "pourcentage": 44,
+    "annee": "2015"
+  },
+  {
+    "uic": "118000",
+    "gare_enquetee": "Troyes",
+    "sexe": "H",
+    "pourcentage": 49,
+    "annee": "2015"
+  }
+]
