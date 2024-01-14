@@ -40,7 +40,7 @@ html,body {
 
 /* Les canvas */
 
-/* .EvolutionTempsParcours {
+.EvolutionTempsParcours {
     position: absolute;
     top: 22.5%;
     left: 22.5%;
@@ -48,13 +48,14 @@ html,body {
     margin: 20px;
 }
 
+
 .FrequentationGares {
     position: absolute;
     top: 22.5%;
     left: 22.5%;
     width: 50%;
     margin: 20px;
-} */
+}
 
 .InvestissementsSNCF {
     position: absolute;
@@ -64,7 +65,7 @@ html,body {
     margin: 20px;
 }
 
-/* .RepartitionClientsAge {
+.RepartitionClientsAge {
     position: absolute;
     top: 22.5%;
     left: 22.5%;
@@ -86,4 +87,4 @@ html,body {
     left: 22.5%;
     width: 50%;
     margin: 20px;
-} */
+}

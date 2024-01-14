@@ -1,5 +1,5 @@
-const barCanvas = document.getElementById('InvestissementsSNCF');
-const barChart = new Chart(barCanvas, {
+const invCanvas = document.getElementById('InvestissementsSNCF');
+const invChart = new Chart(invCanvas, {
     type: 'bubble',
     data: {
         labels: [], // Les dates iront ici
@@ -50,7 +50,7 @@ fetch('JSON/Investissements_SNCF_Mobilites.json')
     .then(response => response.json())
     .then(data => {
         // Mettre à jour les données du graphique
-        updateChartData(barChart, data);
+        updateChartData(invChart, data);
     })
     .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
 
