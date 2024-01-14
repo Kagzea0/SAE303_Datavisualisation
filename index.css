@@ -16,7 +16,7 @@ html,body {
     transition: .5s ease-in-out;
 }
   
-.carousel-controls {
+.controls {
     position: absolute;
     z-index: 5;
     left: 10%;
@@ -26,13 +26,13 @@ html,body {
     justify-content: space-between;
 }
   
-.carousel-controls button {
+.controls button {
     padding: 10px;
     background-color: white;
     border: 1px solid black;
 }
 
-.carousel-controls button:active {
+.controls button:active {
     padding: 10px;
     background-color: aquamarine;
     border: 1px solid black;
