@@ -29,13 +29,7 @@ html,body {
     top: 22.5vh;
 }
 
-.slide #RepartitionClientsGenre {
-    position: absolute;
-    left: 22.5vw;
-    top: 22.5vh;
-}
-
-.slide #EvolutionTempsParcours {
+.slide #Collisions { 
     position: absolute;
     left: 22.5vw;
     top: 22.5vh;
@@ -103,7 +97,6 @@ html,body {
 
 #EvolutionTempsParcours {
 }
-
 
 #FrequentationGares {
 }
