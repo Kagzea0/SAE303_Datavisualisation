@@ -1,90 +1,120 @@
+* {
+    box-sizing: border-box
+}
+
 html,body {
     padding: 0;
     margin: 0;
 }
-
-/* Carousel */
-.carousel {
-    position: relative;
-    top: 0;
-    bottom: 0;
-}
   
-.slide {
-    flex: 0 0 100%;
-    height: 100%;
-    transition: .5s ease-in-out;
-}
-  
-.controls {
+/* .carrousel {
     position: absolute;
-    z-index: 5;
-    left: 10%;
-    right: 10%;
-    top: 50%;
-    display: flex;
-    justify-content: space-between;
-}
+    max-width: 100px;
+    margin: 20px;
+} */
   
-.controls button {
-    padding: 10px;
-    background-color: white;
-    border: 1px solid black;
+/* .slide {display: none} */
+
+/* Slideshow container */
+.slide {
+    width: 50vw;
+    margin: 20px;
+    transition: .5s ease-in-out;    
+    display: flex;
 }
 
-.controls button:active {
-    padding: 10px;
-    background-color: aquamarine;
-    border: 1px solid black;
+.slide #InvestissementsSNCF {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+.slide #RepartitionClientsGenre {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+.slide #EvolutionTempsParcours {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+/* Next button */
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    right: 50px;
+
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 5px;
+    user-select: none;
+}
+
+/* Previous button */
+.prev {
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    left: 50px;
+
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 5px;
+    user-select: none;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+    .prev, .next,.text {font-size: 11px}
 }
 
 /* Les canvas */
 
-.EvolutionTempsParcours {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#EvolutionTempsParcours {
 }
 
 
-.FrequentationGares {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#FrequentationGares {
 }
 
-.InvestissementsSNCF {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#InvestissementsSNCF {
 }
 
-.RepartitionClientsAge {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#RepartitionClientsAge {
 }
 
-.RepartitionClientsCategorieSocioProfessionnelle {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#RepartitionClientsCategorie {
 }
 
-.RepartitionClientsGenre {
-    position: absolute;
-    top: 22.5%;
-    left: 22.5%;
-    width: 50%;
-    margin: 20px;
+#RepartitionClientsGenre {
 }

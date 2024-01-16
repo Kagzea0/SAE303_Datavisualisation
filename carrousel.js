@@ -1,16 +1,23 @@
-(function () {
-  "use strict";
-  const prev = document.querySelector('#prev');
-  const next = document.querySelector('#next');
-  const $slides = document.querySelectorAll('.slide');
-  let currentSlide = 0;
+let slideIndex = 1;
+    showSlides(slideIndex);
 
-  function slideTo(index) {
-      currentSlide = index >= $slides.length || index < 0 ? 0 : index;
-      const slideWidth = $slides[currentSlide].offsetWidth;
-      $slides.forEach(($elt, i) => $elt.style.transform = `translateX(-${currentSlide * slideWidth}px)`);
-  }
+    function plusSlides(n) {
+    showSlides(slideIndex += n);
+    }
 
-  prev.addEventListener('click', () => slideTo(currentSlide - 1));
-  next.addEventListener('click', () => slideTo(currentSlide + 1));
-})();
+    function currentSlide(n) {
+    showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("slide");
+        if (n > slides.length) {slideIndex = 1}    
+        if (n < 1) {slideIndex = slides.length}
+        
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "none";  
+        }
+
+        slides[slideIndex-1].style.display = "block";  
+    }
