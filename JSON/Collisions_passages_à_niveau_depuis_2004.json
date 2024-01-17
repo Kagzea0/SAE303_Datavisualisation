@@ -1,1 +1,154 @@
-[{"date": "2013", "total_des_passages_a_niveau_publics_routiers": 16006, "pietons_tues": 10, "tues_vehicule": 19, "usagers_tues": 29.0, "collision_vehicule_train": 102},{"date": "2016", "total_des_passages_a_niveau_publics_routiers": 15405, "pietons_tues": 14, "tues_vehicule": 16, "usagers_tues": 31.0, "collision_vehicule_train": 86},{"date": "2008", "total_des_passages_a_niveau_publics_routiers": 16554, "pietons_tues": 7, "tues_vehicule": 31, "usagers_tues": 38.0, "collision_vehicule_train": 105},{"date": "2019", "total_des_passages_a_niveau_publics_routiers": 15103, "pietons_tues": 8, "tues_vehicule": 12, "usagers_tues": 20.0, "collision_vehicule_train": 74},{"date": "2006", "total_des_passages_a_niveau_publics_routiers": 16804, "pietons_tues": 7, "tues_vehicule": 33, "usagers_tues": 40.0, "collision_vehicule_train": 130},{"date": "2010", "total_des_passages_a_niveau_publics_routiers": 16347, "pietons_tues": 6, "tues_vehicule": 19, "usagers_tues": 27.0, "collision_vehicule_train": 97},{"date": "2014", "total_des_passages_a_niveau_publics_routiers": 15943, "pietons_tues": 9, "tues_vehicule": 13, "usagers_tues": 26.0, "collision_vehicule_train": 86},{"date": "2022", "total_des_passages_a_niveau_publics_routiers": 14447, "pietons_tues": 5, "tues_vehicule": 7, "usagers_tues": 15.0, "collision_vehicule_train": 84},{"date": "2004", "total_des_passages_a_niveau_publics_routiers": 16997, "pietons_tues": 16, "tues_vehicule": 22, "usagers_tues": 38.0, "collision_vehicule_train": 110},{"date": "2009", "total_des_passages_a_niveau_publics_routiers": 16511, "pietons_tues": 6, "tues_vehicule": 30, "usagers_tues": 36.0, "collision_vehicule_train": 120},{"date": "2011", "total_des_passages_a_niveau_publics_routiers": 16199, "pietons_tues": 14, "tues_vehicule": 18, "usagers_tues": 29.0, "collision_vehicule_train": 88},{"date": "2015", "total_des_passages_a_niveau_publics_routiers": 15459, "pietons_tues": 8, "tues_vehicule": 17, "usagers_tues": 27.0, "collision_vehicule_train": 91},{"date": "2020", "total_des_passages_a_niveau_publics_routiers": 15047, "pietons_tues": 6, "tues_vehicule": 6, "usagers_tues": 15.0, "collision_vehicule_train": 49},{"date": "2021", "total_des_passages_a_niveau_publics_routiers": 14832, "pietons_tues": 13, "tues_vehicule": 5, "usagers_tues": 22.0, "collision_vehicule_train": 73},{"date": "2005", "total_des_passages_a_niveau_publics_routiers": 16900, "pietons_tues": 11, "tues_vehicule": 30, "usagers_tues": 39.0, "collision_vehicule_train": 123},{"date": "2007", "total_des_passages_a_niveau_publics_routiers": 16782, "pietons_tues": 11, "tues_vehicule": 27, "usagers_tues": 38.0, "collision_vehicule_train": 101},{"date": "2012", "total_des_passages_a_niveau_publics_routiers": 16152, "pietons_tues": 12, "tues_vehicule": 21, "usagers_tues": 33.0, "collision_vehicule_train": 87},{"date": "2017", "total_des_passages_a_niveau_publics_routiers": 15390, "pietons_tues": 11, "tues_vehicule": 28, "usagers_tues": 42.0, "collision_vehicule_train": 69},{"date": "2018", "total_des_passages_a_niveau_publics_routiers": 15328, "pietons_tues": 5, "tues_vehicule": 11, "usagers_tues": 16.0, "collision_vehicule_train": 71}]
+[
+  {
+    "date": "2004",
+    "total_des_passages_a_niveau_publics_routiers": 16997,
+    "pietons_tues": 16,
+    "tues_vehicule": 22,
+    "usagers_tues": 38.0,
+    "collision_vehicule_train": 110
+  },
+  {
+    "date": "2005",
+    "total_des_passages_a_niveau_publics_routiers": 16900,
+    "pietons_tues": 11,
+    "tues_vehicule": 30,
+    "usagers_tues": 39.0,
+    "collision_vehicule_train": 123
+  },
+  {
+    "date": "2006",
+    "total_des_passages_a_niveau_publics_routiers": 16804,
+    "pietons_tues": 7,
+    "tues_vehicule": 33,
+    "usagers_tues": 40.0,
+    "collision_vehicule_train": 130
+  },
+  {
+    "date": "2007",
+    "total_des_passages_a_niveau_publics_routiers": 16782,
+    "pietons_tues": 11,
+    "tues_vehicule": 27,
+    "usagers_tues": 38.0,
+    "collision_vehicule_train": 101
+  },
+  {
+    "date": "2008",
+    "total_des_passages_a_niveau_publics_routiers": 16554,
+    "pietons_tues": 7,
+    "tues_vehicule": 31,
+    "usagers_tues": 38.0,
+    "collision_vehicule_train": 105
+  },
+  {
+    "date": "2009",
+    "total_des_passages_a_niveau_publics_routiers": 16511,
+    "pietons_tues": 6,
+    "tues_vehicule": 30,
+    "usagers_tues": 36.0,
+    "collision_vehicule_train": 120
+  },
+  {
+    "date": "2010",
+    "total_des_passages_a_niveau_publics_routiers": 16347,
+    "pietons_tues": 6,
+    "tues_vehicule": 19,
+    "usagers_tues": 27.0,
+    "collision_vehicule_train": 97
+  },
+  {
+    "date": "2011",
+    "total_des_passages_a_niveau_publics_routiers": 16199,
+    "pietons_tues": 14,
+    "tues_vehicule": 18,
+    "usagers_tues": 29.0,
+    "collision_vehicule_train": 88
+  },
+  {
+    "date": "2012",
+    "total_des_passages_a_niveau_publics_routiers": 16152,
+    "pietons_tues": 12,
+    "tues_vehicule": 21,
+    "usagers_tues": 33.0,
+    "collision_vehicule_train": 87
+  },
+  {
+    "date": "2013",
+    "total_des_passages_a_niveau_publics_routiers": 16006,
+    "pietons_tues": 10,
+    "tues_vehicule": 19,
+    "usagers_tues": 29.0,
+    "collision_vehicule_train": 102
+  },
+  {
+    "date": "2014",
+    "total_des_passages_a_niveau_publics_routiers": 15943,
+    "pietons_tues": 9,
+    "tues_vehicule": 13,
+    "usagers_tues": 26.0,
+    "collision_vehicule_train": 86
+  },
+  {
+    "date": "2015",
+    "total_des_passages_a_niveau_publics_routiers": 15459,
+    "pietons_tues": 8,
+    "tues_vehicule": 17,
+    "usagers_tues": 27.0,
+    "collision_vehicule_train": 91
+  },
+  {
+    "date": "2016",
+    "total_des_passages_a_niveau_publics_routiers": 15405,
+    "pietons_tues": 14,
+    "tues_vehicule": 16,
+    "usagers_tues": 31.0,
+    "collision_vehicule_train": 86
+  },
+  {
+    "date": "2017",
+    "total_des_passages_a_niveau_publics_routiers": 15390,
+    "pietons_tues": 11,
+    "tues_vehicule": 28,
+    "usagers_tues": 42.0,
+    "collision_vehicule_train": 69
+  },
+  {
+    "date": "2018",
+    "total_des_passages_a_niveau_publics_routiers": 15328,
+    "pietons_tues": 5,
+    "tues_vehicule": 11,
+    "usagers_tues": 16.0,
+    "collision_vehicule_train": 71
+  },
+  {
+    "date": "2019",
+    "total_des_passages_a_niveau_publics_routiers": 15103,
+    "pietons_tues": 8,
+    "tues_vehicule": 12,
+    "usagers_tues": 20.0,
+    "collision_vehicule_train": 74
+  },
+  {
+    "date": "2020",
+    "total_des_passages_a_niveau_publics_routiers": 15047,
+    "pietons_tues": 6,
+    "tues_vehicule": 6,
+    "usagers_tues": 15.0,
+    "collision_vehicule_train": 49
+  },
+  {
+    "date": "2021",
+    "total_des_passages_a_niveau_publics_routiers": 14832,
+    "pietons_tues": 13,
+    "tues_vehicule": 5,
+    "usagers_tues": 22.0,
+    "collision_vehicule_train": 73
+  },
+  {
+    "date": "2022",
+    "total_des_passages_a_niveau_publics_routiers": 14447,
+    "pietons_tues": 5,
+    "tues_vehicule": 7,
+    "usagers_tues": 15.0,
+    "collision_vehicule_train": 84
+  }
+]

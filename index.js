@@ -1,7 +1,7 @@
 // InvestissementsSNCF
 const invCanvas = document.getElementById('InvestissementsSNCF');
 const invChart = new Chart(invCanvas, {
-    type: 'scatter',
+    type: 'bubble',
     data: {
         labels: [], // Les dates iront ici
         datasets: [
@@ -9,22 +9,20 @@ const invChart = new Chart(invCanvas, {
                 label: 'Investissements SNCF Mobilites (en milliards)',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(255, 99, 132, 0.2)',
-                borderColor: 'rgba(255, 99, 132, 1)',
+                backgroundColor: 'rgba(255, 99, 132, 1)', //Rouge
                 borderWidth: 1,
                 radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
                 label: 'Investissements Tous Financements (en milliards)',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bleu
-                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(54, 162, 235, 1)', // Bleu
                 borderWidth: 1,
                 radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             }
         ]
@@ -80,7 +78,7 @@ function updateChartData1(chart, data) {
 }
 
 // InvestissementsSNCF
-const colCanvas = document.getElementById('Collisions');
+const colCanvas = document.getElementById('CollisionsDepuis2004');
 const colChart = new Chart(colCanvas, {
     type: 'line',
     data: {
@@ -90,44 +88,44 @@ const colChart = new Chart(colCanvas, {
                 label: 'Piétons tués',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(255, 99, 132, 0.2)',
-                borderColor: 'rgba(255, 99, 132, 1)',
+                backgroundColor: 'rgba(149, 0, 0, 0.5)',
+                borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,
-                radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                radius: 0, // Taille des bulles
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
                 label: 'Tués dans un véhicule',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bleu
-                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
+                borderColor: 'rgba(0, 61, 149, 1)',
                 borderWidth: 1,
-                radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                radius: 0, // Taille des bulles
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
                 label: 'Usagers tués',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bleu
-                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Bleu
+                borderColor: 'rgba(32, 149, 0, 1)',
                 borderWidth: 1,
-                radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                radius: 0, // Taille des bulles
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
                 label: 'Collision du véhicule avec le train',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(54, 162, 235, 0.2)', // Bleu
-                borderColor: 'rgba(54, 162, 235, 1)',
+                backgroundColor: 'rgba(255, 255, 102, 0.5)', // Bleu
+                borderColor: 'rgba(255, 255, 0, 1)',
                 borderWidth: 1,
-                radius: 5, // Taille des bulles
-                hoverRadius: 5, // Taille au survol (même taille que radius)
+                radius: 0, // Taille des bulles
+                hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             }
         ]

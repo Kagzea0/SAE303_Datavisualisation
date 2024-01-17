@@ -6,14 +6,6 @@ html,body {
     padding: 0;
     margin: 0;
 }
-  
-/* .carrousel {
-    position: absolute;
-    max-width: 100px;
-    margin: 20px;
-} */
-  
-/* .slide {display: none} */
 
 /* Slideshow container */
 .slide {
@@ -21,18 +13,6 @@ html,body {
     margin: 20px;
     transition: .5s ease-in-out;    
     display: flex;
-}
-
-.slide #InvestissementsSNCF {
-    position: absolute;
-    left: 22.5vw;
-    top: 22.5vh;
-}
-
-.slide #Collisions { 
-    position: absolute;
-    left: 22.5vw;
-    top: 22.5vh;
 }
 
 /* Next button */
@@ -93,22 +73,50 @@ html,body {
     .prev, .next,.text {font-size: 11px}
 }
 
-/* Les canvas */
-
-#EvolutionTempsParcours {
-}
-
-#FrequentationGares {
-}
-
 #InvestissementsSNCF {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
 }
 
-#RepartitionClientsAge {
+#CollisionsDepuis2004 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
 }
 
-#RepartitionClientsCategorie {
+#MouvementsAnnuelsDepuis1947 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
 }
 
-#RepartitionClientsGenre {
+#MouvementsMensuelsDepuis1994 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+#RegulariteMensuelleTVG2015 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+#RemunerationAnnuelMetier2016 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+#TempsTravailAnnuelDepuis1957 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
+}
+
+#TraficDepuis1841 {
+    position: absolute;
+    left: 22.5vw;
+    top: 22.5vh;
 }
