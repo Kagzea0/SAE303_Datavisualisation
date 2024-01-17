@@ -1,1 +1,92 @@
-[{"metier": "Agent commercial \u00e0 bord des trains", "phase_de_carriere": "Millieu de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 28816, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "25%"},{"metier": "Conducteurs", "phase_de_carriere": "Millieu de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 34751, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "10%"},{"metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire", "phase_de_carriere": "Millieu de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 23392, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "19%"},{"metier": "Manager de proximit\u00e9, maitrise", "phase_de_carriere": "Millieu de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 30966, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "15%"},{"metier": "Manager de proximit\u00e9, maitrise", "phase_de_carriere": "Fin de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 43952, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "14%"},{"metier": "Agent commercial \u00e0 bord des trains", "phase_de_carriere": "D\u00e9but de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 22192, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "25%"},{"metier": "Manager de proximit\u00e9, maitrise", "phase_de_carriere": "D\u00e9but de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 25428, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "11%"},{"metier": "Ing\u00e9nieurs et cadres", "phase_de_carriere": "D\u00e9but de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 31210, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "9%"},{"metier": "Ing\u00e9nieurs et cadres", "phase_de_carriere": "Millieu de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 58997, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "12%"},{"metier": "Conducteurs", "phase_de_carriere": "D\u00e9but de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 24747, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "11%"},{"metier": "Ing\u00e9nieurs et cadres", "phase_de_carriere": "Fin de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 71567, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "8%"},{"metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire", "phase_de_carriere": "Fin de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 32755, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "17%"},{"metier": "Conducteurs", "phase_de_carriere": "Fin de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 44119, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "10%"},{"metier": "Agent commercial \u00e0 bord des trains", "phase_de_carriere": "Fin de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 35816, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "19%"},{"metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire", "phase_de_carriere": "D\u00e9but de carri\u00e8re", "remuneration_fixe_brute_annuelle_en_euros": 19894, "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "21%"}]
+[
+  {
+    "metier": "Agent commercial \u00e0 bord des trains",
+    "phase_de_carriere": "Millieu de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 28816,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "25%"
+  },
+  {
+    "metier": "Conducteurs",
+    "phase_de_carriere": "Millieu de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 34751,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "10%"
+  },
+  {
+    "metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire",
+    "phase_de_carriere": "Millieu de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 23392,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "19%"
+  },
+  {
+    "metier": "Manager de proximit\u00e9, maitrise",
+    "phase_de_carriere": "Millieu de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 30966,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "15%"
+  },
+  {
+    "metier": "Manager de proximit\u00e9, maitrise",
+    "phase_de_carriere": "Fin de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 43952,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "14%"
+  },
+  {
+    "metier": "Agent commercial \u00e0 bord des trains",
+    "phase_de_carriere": "D\u00e9but de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 22192,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "25%"
+  },
+  {
+    "metier": "Manager de proximit\u00e9, maitrise",
+    "phase_de_carriere": "D\u00e9but de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 25428,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "11%"
+  },
+  {
+    "metier": "Ing\u00e9nieurs et cadres",
+    "phase_de_carriere": "D\u00e9but de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 31210,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "9%"
+  },
+  {
+    "metier": "Ing\u00e9nieurs et cadres",
+    "phase_de_carriere": "Millieu de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 58997,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "12%"
+  },
+  {
+    "metier": "Conducteurs",
+    "phase_de_carriere": "D\u00e9but de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 24747,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "11%"
+  },
+  {
+    "metier": "Ing\u00e9nieurs et cadres",
+    "phase_de_carriere": "Fin de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 71567,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "8%"
+  },
+  {
+    "metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire",
+    "phase_de_carriere": "Fin de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 32755,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "17%"
+  },
+  {
+    "metier": "Conducteurs",
+    "phase_de_carriere": "Fin de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 44119,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "10%"
+  },
+  {
+    "metier": "Agent commercial \u00e0 bord des trains",
+    "phase_de_carriere": "Fin de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 35816,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "19%"
+  },
+  {
+    "metier": "Mainteneur, Aiguilleur, Agent commercial, gestionnaire",
+    "phase_de_carriere": "D\u00e9but de carri\u00e8re",
+    "remuneration_fixe_brute_annuelle_en_euros": 19894,
+    "indemnites_remunerations_variables_moyen_de_la_remuneration_fixe": "21%"
+  }
+]

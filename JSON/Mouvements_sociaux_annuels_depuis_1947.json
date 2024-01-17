@@ -1,1 +1,122 @@
-[{"date": "1948", "journees_perdues": 900000.0, "effectif_a_disposition": 471325, "journees_perdues_par_agent": 1.91},{"date": "1958", "journees_perdues": 252000.0, "effectif_a_disposition": 360541, "journees_perdues_par_agent": 0.7},{"date": "1959", "journees_perdues": 16000.0, "effectif_a_disposition": 355752, "journees_perdues_par_agent": 0.04},{"date": "1964", "journees_perdues": 446000.0, "effectif_a_disposition": 356422, "journees_perdues_par_agent": 1.25},{"date": "1969", "journees_perdues": 348000.0, "effectif_a_disposition": 310306, "journees_perdues_par_agent": 1.12},{"date": "1970", "journees_perdues": 253000.0, "effectif_a_disposition": 301226, "journees_perdues_par_agent": 0.84},{"date": "1975", "journees_perdues": 158200.0, "effectif_a_disposition": 281679, "journees_perdues_par_agent": 0.56},{"date": "1977", "journees_perdues": 429900.0, "effectif_a_disposition": 268831, "journees_perdues_par_agent": 1.6},{"date": "1980", "journees_perdues": 325000.0, "effectif_a_disposition": 254400, "journees_perdues_par_agent": 1.28},{"date": "1981", "journees_perdues": 34100.0, "effectif_a_disposition": 248497, "journees_perdues_par_agent": 0.14},{"date": "1987", "journees_perdues": 465341.0, "effectif_a_disposition": 222426, "journees_perdues_par_agent": 2.09},{"date": "1990", "journees_perdues": 164395.0, "effectif_a_disposition": 202082, "journees_perdues_par_agent": 0.81},{"date": "2002", "journees_perdues": 37239.0, "effectif_a_disposition": 177328, "journees_perdues_par_agent": 0.21},{"date": "2003", "journees_perdues": 395276.0, "effectif_a_disposition": 174900, "journees_perdues_par_agent": 2.26},{"date": "2007", "journees_perdues": 425445.0, "effectif_a_disposition": 161766, "journees_perdues_par_agent": 2.63},{"date": "2009", "journees_perdues": 186882.0, "effectif_a_disposition": 156434, "journees_perdues_par_agent": 1.19},{"date": "2010", "journees_perdues": 572161.0, "effectif_a_disposition": 151193, "journees_perdues_par_agent": 3.78},{"date": "2011", "journees_perdues": 72944.0, "effectif_a_disposition": 146186, "journees_perdues_par_agent": 0.5},{"date": "2015", "journees_perdues": 97952.0, "effectif_a_disposition": 151344, "journees_perdues_par_agent": 0.65},{"date": "1947", "journees_perdues": 3000000.0, "effectif_a_disposition": 462300, "journees_perdues_par_agent": 6.49},{"date": "1950", "journees_perdues": 30800.0, "effectif_a_disposition": 445216, "journees_perdues_par_agent": 0.07},{"date": "1951", "journees_perdues": 695500.0, "effectif_a_disposition": 424123, "journees_perdues_par_agent": 1.64},{"date": "1952", "journees_perdues": 11500.0, "effectif_a_disposition": 411749, "journees_perdues_par_agent": 0.03},{"date": "1953", "journees_perdues": 3000000.0, "effectif_a_disposition": 398703, "journees_perdues_par_agent": 7.52},{"date": "1955", "journees_perdues": 56700.0, "effectif_a_disposition": 370689, "journees_perdues_par_agent": 0.15},{"date": "1956", "journees_perdues": 2500.0, "effectif_a_disposition": 362296, "journees_perdues_par_agent": 0.01},{"date": "1960", "journees_perdues": 220000.0, "effectif_a_disposition": 350718, "journees_perdues_par_agent": 0.63},{"date": "1962", "journees_perdues": 450000.0, "effectif_a_disposition": 344994, "journees_perdues_par_agent": 1.3},{"date": "1963", "journees_perdues": 670000.0, "effectif_a_disposition": 352768, "journees_perdues_par_agent": 1.9},{"date": "1965", "journees_perdues": 149000.0, "effectif_a_disposition": 355455, "journees_perdues_par_agent": 0.42},{"date": "1967", "journees_perdues": 465000.0, "effectif_a_disposition": 333133, "journees_perdues_par_agent": 1.4},{"date": "1968", "journees_perdues": 4680000.0, "effectif_a_disposition": 319999, "journees_perdues_par_agent": 14.63},{"date": "1982", "journees_perdues": 44000.0, "effectif_a_disposition": 252421, "journees_perdues_par_agent": 0.17},{"date": "1983", "journees_perdues": 64000.0, "effectif_a_disposition": 252200, "journees_perdues_par_agent": 0.25},{"date": "1984", "journees_perdues": 250816.0, "effectif_a_disposition": 248349, "journees_perdues_par_agent": 1.01},{"date": "1988", "journees_perdues": 158343.0, "effectif_a_disposition": 213214, "journees_perdues_par_agent": 0.74},{"date": "1991", "journees_perdues": 193776.0, "effectif_a_disposition": 198626, "journees_perdues_par_agent": 0.98},{"date": "1993", "journees_perdues": 144803.0, "effectif_a_disposition": 192089, "journees_perdues_par_agent": 0.75},{"date": "1996", "journees_perdues": 94867.0, "effectif_a_disposition": 177889, "journees_perdues_par_agent": 0.53},{"date": "1998", "journees_perdues": 180431.0, "effectif_a_disposition": 175445, "journees_perdues_par_agent": 1.03},{"date": "2000", "journees_perdues": 85094.0, "effectif_a_disposition": 176532, "journees_perdues_par_agent": 0.48},{"date": "2005", "journees_perdues": 238962.0, "effectif_a_disposition": 165945, "journees_perdues_par_agent": 1.44},{"date": "2012", "journees_perdues": 86121.0, "effectif_a_disposition": 154347, "journees_perdues_par_agent": 0.56},{"date": "2013", "journees_perdues": 171851.0, "effectif_a_disposition": 153752, "journees_perdues_par_agent": 1.12},{"date": "2014", "journees_perdues": 248564.0, "effectif_a_disposition": 152509, "journees_perdues_par_agent": 1.63},{"date": "2018", "journees_perdues": 667085.0, "effectif_a_disposition": 142236, "journees_perdues_par_agent": 4.69},{"date": "2019", "journees_perdues": 394366.91, "effectif_a_disposition": 138863, "journees_perdues_par_agent": 2.84},{"date": "2021", "journees_perdues": 63015.0, "effectif_a_disposition": 134554, "journees_perdues_par_agent": 0.47},{"date": "1966", "journees_perdues": 480000.0, "effectif_a_disposition": 345142, "journees_perdues_par_agent": 1.39},{"date": "1972", "journees_perdues": 180000.0, "effectif_a_disposition": 289279, "journees_perdues_par_agent": 0.62},{"date": "1976", "journees_perdues": 340000.0, "effectif_a_disposition": 274080, "journees_perdues_par_agent": 1.24},{"date": "1992", "journees_perdues": 89160.0, "effectif_a_disposition": 198077, "journees_perdues_par_agent": 0.45},{"date": "2004", "journees_perdues": 94580.0, "effectif_a_disposition": 171963, "journees_perdues_par_agent": 0.55},{"date": "1949", "journees_perdues": 210000.0, "effectif_a_disposition": 462701, "journees_perdues_par_agent": 0.45},{"date": "1961", "journees_perdues": 1100000.0, "effectif_a_disposition": 346309, "journees_perdues_par_agent": 3.18},{"date": "1971", "journees_perdues": 640000.0, "effectif_a_disposition": 294936, "journees_perdues_par_agent": 2.17},{"date": "1974", "journees_perdues": 211100.0, "effectif_a_disposition": 284562, "journees_perdues_par_agent": 0.74},{"date": "1979", "journees_perdues": 324400.0, "effectif_a_disposition": 258904, "journees_perdues_par_agent": 1.25},{"date": "1985", "journees_perdues": 200862.0, "effectif_a_disposition": 242091, "journees_perdues_par_agent": 0.83},{"date": "1997", "journees_perdues": 124259.0, "effectif_a_disposition": 175011, "journees_perdues_par_agent": 0.71},{"date": "2006", "journees_perdues": 129213.0, "effectif_a_disposition": 163560, "journees_perdues_par_agent": 0.79},{"date": "2008", "journees_perdues": 123529.0, "effectif_a_disposition": 158370, "journees_perdues_par_agent": 0.78},{"date": "1954", "journees_perdues": 103000.0, "effectif_a_disposition": 385004, "journees_perdues_par_agent": 0.27},{"date": "1957", "journees_perdues": 590000.0, "effectif_a_disposition": 361708, "journees_perdues_par_agent": 1.63},{"date": "1973", "journees_perdues": 328000.0, "effectif_a_disposition": 285401, "journees_perdues_par_agent": 1.15},{"date": "1978", "journees_perdues": 159200.0, "effectif_a_disposition": 263011, "journees_perdues_par_agent": 0.61},{"date": "1986", "journees_perdues": 699895.0, "effectif_a_disposition": 233404, "journees_perdues_par_agent": 3.0},{"date": "1989", "journees_perdues": 93557.0, "effectif_a_disposition": 206444, "journees_perdues_par_agent": 0.45},{"date": "1994", "journees_perdues": 93815.0, "effectif_a_disposition": 185690, "journees_perdues_par_agent": 0.51},{"date": "1995", "journees_perdues": 1054920.0, "effectif_a_disposition": 181114, "journees_perdues_par_agent": 5.82},{"date": "1999", "journees_perdues": 53779.0, "effectif_a_disposition": 175285, "journees_perdues_par_agent": 0.31},{"date": "2001", "journees_perdues": 160947.0, "effectif_a_disposition": 178450, "journees_perdues_par_agent": 0.9},{"date": "2016", "journees_perdues": 363425.0, "effectif_a_disposition": 149808, "journees_perdues_par_agent": 2.43},{"date": "2017", "journees_perdues": 112631.84, "effectif_a_disposition": 144639, "journees_perdues_par_agent": 0.78},{"date": "2020", "journees_perdues": 184437.0, "effectif_a_disposition": 136388, "journees_perdues_par_agent": 1.35},{"date": "2022", "journees_perdues": 125608.0, "effectif_a_disposition": 133020, "journees_perdues_par_agent": 0.94}]
+[
+    {
+      "date": "1947",
+      "journees_perdues": 3000000.0,
+      "effectif_a_disposition": 462300,
+      "journees_perdues_par_agent": 6.49
+    },
+    {
+      "date": "1948",
+      "journees_perdues": 900000.0,
+      "effectif_a_disposition": 471325,
+      "journees_perdues_par_agent": 1.91
+    },
+    {
+      "date": "1949",
+      "journees_perdues": 210000.0,
+      "effectif_a_disposition": 462701,
+      "journees_perdues_par_agent": 0.45
+    },
+    {
+      "date": "1950",
+      "journees_perdues": 30800.0,
+      "effectif_a_disposition": 445216,
+      "journees_perdues_par_agent": 0.07
+    },
+    {
+      "date": "1951",
+      "journees_perdues": 695500.0,
+      "effectif_a_disposition": 424123,
+      "journees_perdues_par_agent": 1.64
+    },
+    {
+      "date": "1952",
+      "journees_perdues": 11500.0,
+      "effectif_a_disposition": 411749,
+      "journees_perdues_par_agent": 0.03
+    },
+    {
+      "date": "1953",
+      "journees_perdues": 3000000.0,
+      "effectif_a_disposition": 398703,
+      "journees_perdues_par_agent": 7.52
+    },
+    {
+      "date": "1954",
+      "journees_perdues": 103000.0,
+      "effectif_a_disposition": 385004,
+      "journees_perdues_par_agent": 0.27
+    },
+    {
+      "date": "1955",
+      "journees_perdues": 56700.0,
+      "effectif_a_disposition": 370689,
+      "journees_perdues_par_agent": 0.15
+    },
+    {
+      "date": "1956",
+      "journees_perdues": 2500.0,
+      "effectif_a_disposition": 362296,
+      "journees_perdues_par_agent": 0.01
+    },
+    {
+      "date": "1957",
+      "journees_perdues": 590000.0,
+      "effectif_a_disposition": 361708,
+      "journees_perdues_par_agent": 1.63
+    },
+    {
+      "date": "1958",
+      "journees_perdues": 252000.0,
+      "effectif_a_disposition": 360541,
+      "journees_perdues_par_agent": 0.7
+    },
+    {
+      "date": "1959",
+      "journees_perdues": 16000.0,
+      "effectif_a_disposition": 355752,
+      "journees_perdues_par_agent": 0.04
+    },
+    {
+      "date": "1960",
+      "journees_perdues": 220000.0,
+      "effectif_a_disposition": 350718,
+      "journees_perdues_par_agent": 0.63
+    },
+    {
+      "date": "1961",
+      "journees_perdues": 1100000.0,
+      "effectif_a_disposition": 346309,
+      "journees_perdues_par_agent": 3.18
+    },
+    {
+      "date": "1962",
+      "journees_perdues": 450000.0,
+      "effectif_a_disposition": 344994,
+      "journees_perdues_par_agent": 1.3
+    },
+    {
+      "date": "1963",
+      "journees_perdues": 670000.0,
+      "effectif_a_disposition": 352768,
+      "journees_perdues_par_agent": 1.9
+    },
+    {
+      "date": "1964",
+      "journees_perdues": 446000.0,
+      "effectif_a_disposition": 356422,
+      "journees_perdues_par_agent": 1.25
+    },
+    {
+      "date": "1965",
+      "journees_perdues": 149000.0,
+      "effectif_a_disposition": 355455,
+      "journees_perdues_par_agent": 0.42
+    },
+    {
+      "date": "1966",
+      "journees_perdues": 480000.0,
+      "effectif_a_disposition": 345142,
+      "journees_perdues_par_agent": 1.39
+    }
+]
