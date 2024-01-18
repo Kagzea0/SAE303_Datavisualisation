@@ -6,59 +6,67 @@
     <title>Chart JS</title>
     <link rel="stylesheet" href="index.css">
 </head>
-<body>
-
-    <img src="Images/Decor.png" id="Decor">
-
-    <img src="Images/Train.png" id="Train">
+<body>    
+    
+    <img src="Images/Frise.png" style="position: absolute; left: 0; top: 0; height: 100vh; z-index: 1;">
 
     <div class="carrousel">
 
         <!-- <a class="prev" onclick="plusSlides(-1)">❮</a>
         <a class="next" onclick="plusSlides(1)">❯</a> --> 
         
+        <!-- LES INVESTISSEMENTS SNCF -->
         <button id="ButInvOpen"></button>
         <div class="slide fade" id="Investissements">
             <canvas id="InvestissementsSNCF" aria-label="chart" role="img"></canvas>
             <button id="ButInvClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
         
+        <!-- LES COLLISIONS A UN PASSAGE A NIVEAU -->
         <button id="ButColOpen"></button>
         <div class="slide fade" id="Collisions">
             <canvas id="CollisionsDepuis2004" aria-label="chart" role="img"></canvas>
             <button id="ButColClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
-        <button id="ButColClose"></button>
 
-        <div class="slide fade">
-            <div id="CarréMvtAnnuels"></div>
-            <canvas id="MouvementsAnnuelsDepuis1947" aria-label="chart" role="img"></canvas>
+        <!-- LES MOUVEMENTS ANNUELS DEPUIS 1947 -->
+        <button id="ButMvtAnnuelsOpen"></button>
+        <div class="slide fade" id="MvtAnnuels">
+            <canvas id="MvtAnnuelsDepuis1947" aria-label="chart" role="img"></canvas>
+            <button id="ButMvtAnnuelsClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
 
-        <div class="slide fade">
-            <div id="CarréMvtMensuels"></div>
-            <canvas id="MouvementsMensuelsDepuis1994" aria-label="chart" role="img"></canvas>
+        <!-- LES MOUVEMENTS MENSUELS DEPUIS 1994 -->
+        <button id="ButMvtMensuelsOpen"></button>
+        <div class="slide fade" id="MvtMensuels">
+            <canvas id="MvtMensuelsDepuis1994" aria-label="chart" role="img"></canvas>
+            <button id="ButMvtMensuelClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
 
-        <div class="slide fade">
-            <div id="CarréRegularité"></div>
-            <canvas id="RegulariteMensuelleTVG2015" aria-label="chart" role="img"></canvas>
+        <!-- LA REGULARITE MENSUELLE DES TGV DEPUIS 2015 -->
+        <button id="ButRegulTGVOpen"></button>
+        <div class="slide fade" id="RegulariteTGV">
+            <canvas id="RegulariteMensuelleTGV2015" aria-label="chart" role="img"></canvas>
+            <button id="ButRegulTGVClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
 
-        <div class="slide fade">
-            <div id="CarréRémunération"></div>
-            <canvas id="RemunerationAnnuelMetier2016" aria-label="chart" role="img"></canvas>
-        </div>
-
-        <div class="slide fade">
-            <div id="CarréTempsTravail"></div>
+        <!-- LE TEMPS DE TRAVAIL ANNUEL DEPUIS 1957 -->
+        <button id="ButTtaOpen"></button>
+        <div class="slide fade" id="TtaAnnuel1957">
             <canvas id="TempsTravailAnnuelDepuis1957" aria-label="chart" role="img"></canvas>
+            <button id="ButTtaClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
 
-        <div class="slide fade">
-            <div id="CarréTrafic"></div>
+        <!-- LE TRAFIC FRET ET VOYAGEUR DEPUIS 1841 -->
+        <button id="ButTraficOpen"></button>
+        <div class="slide fade" id="Trafic">
             <canvas id="TraficDepuis1841" aria-label="chart" role="img"></canvas>
+            <button id="ButTraficClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
         </div>
+
+        <!-- INFOGRAPHIE -->
+        <button id="ButInfographieOpen"></button>
+        <img src="Images/Infographie.png" alt="Infographie" id="Infographie">
 
     </div>
 
@@ -70,12 +78,5 @@
     
     <script src="BoutonsApparitionCanvas.js"></script>
 
-    <!-- <script type="text/javascript" src="InvestissementsSNCF.js"></script>
-    <script type="text/javascript" src="Collisions.js"></script> -->
-    <!-- <script type="text/javascript" src="RepartitionClientsGenre.js"></script>
-    <script type="text/javascript" src="EvolutionTempsParcours.js"></script>
-    <script type="text/javascript" src="FrequentationGares.js"></script>
-    <script type="text/javascript" src="RepartitionClientsAge.js"></script>
-    <script type="text/javascript" src="RepartitionClientsCategorieSocioProfessionnelle.js"></script> -->
 </body>
 </html> 
