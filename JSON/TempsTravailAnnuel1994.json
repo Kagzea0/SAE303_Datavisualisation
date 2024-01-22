@@ -1,0 +1,127 @@
+[
+    {
+      "date": "1994",
+      "temps_annuel_de_travail_sncf": 1736.0,
+      "temps_annuel_de_travail_france": 1484.0
+    },
+    {
+      "date": "1995",
+      "temps_annuel_de_travail_sncf": 1728.0,
+      "temps_annuel_de_travail_france": 1466.0
+    },
+    {
+      "date": "1996",
+      "temps_annuel_de_travail_sncf": 1744.0,
+      "temps_annuel_de_travail_france": 1463.0
+    },
+    {
+      "date": "1997",
+      "temps_annuel_de_travail_sncf": 1736.0,
+      "temps_annuel_de_travail_france": 1460.0
+    },
+    {
+      "date": "1998",
+      "temps_annuel_de_travail_sncf": 1736.0,
+      "temps_annuel_de_travail_france": 1452.0
+    },
+    {
+      "date": "1999",
+      "temps_annuel_de_travail_sncf": 1736.0,
+      "temps_annuel_de_travail_france": 1450.0
+    },
+    {
+      "date": "2000",
+      "temps_annuel_de_travail_sncf": 1575.0,
+      "temps_annuel_de_travail_france": 1430.0
+    },
+    {
+      "date": "2001",
+      "temps_annuel_de_travail_sncf": 1582.0,
+      "temps_annuel_de_travail_france": 1415.0
+    },
+    {
+      "date": "2002",
+      "temps_annuel_de_travail_sncf": 1582.0,
+      "temps_annuel_de_travail_france": 1387.0
+    },
+    {
+      "date": "2003",
+      "temps_annuel_de_travail_sncf": 1575.0,
+      "temps_annuel_de_travail_france": 1391.0
+    },
+    {
+      "date": "2004",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1414.0
+    },
+    {
+      "date": "2005",
+      "temps_annuel_de_travail_sncf": 1596.0,
+      "temps_annuel_de_travail_france": 1416.0
+    },
+    {
+      "date": "2006",
+      "temps_annuel_de_travail_sncf": 1582.0,
+      "temps_annuel_de_travail_france": 1400.0
+    },
+    {
+      "date": "2007",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1424.0
+    },
+    {
+      "date": "2008",
+      "temps_annuel_de_travail_sncf": 1596.0,
+      "temps_annuel_de_travail_france": 1433.0
+    },
+    {
+      "date": "2009",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1419.0
+    },
+    {
+      "date": "2010",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1428.0
+    },
+    {
+      "date": "2011",
+      "temps_annuel_de_travail_sncf": 1603.0,
+      "temps_annuel_de_travail_france": 1435.0
+    },
+    {
+      "date": "2012",
+      "temps_annuel_de_travail_sncf": 1596.0,
+      "temps_annuel_de_travail_france": 1429.0
+    },
+    {
+      "date": "2013",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1417.0
+    },
+    {
+      "date": "2014",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1412.0
+    },
+    {
+      "date": "2015",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1412.0
+    },
+    {
+      "date": "2016",
+      "temps_annuel_de_travail_sncf": 1603.0,
+      "temps_annuel_de_travail_france": 1418.0
+    },
+    {
+      "date": "2017",
+      "temps_annuel_de_travail_sncf": 1582.0,
+      "temps_annuel_de_travail_france": 1405.0
+    },
+    {
+      "date": "2018",
+      "temps_annuel_de_travail_sncf": 1589.0,
+      "temps_annuel_de_travail_france": 1396.0
+    }
+]

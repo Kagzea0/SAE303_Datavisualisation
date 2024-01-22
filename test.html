@@ -6,30 +6,64 @@
     <title>Chart JS</title>
     <link rel="stylesheet" href="test.css">
 </head>
-<body>    
+<body>  
     
-    <!-- <img src="Images/Frise.png" id="image">
+    <nav>
+        <ul>
+            <!-- <li><a href="#bbb">Mouvements sociaux</a></li> -->
+            <li><a href="#MvtSoc">Mouvements sociaux</a></li>
+            <li><a href="#JourRepos">Jour de repos</a></li>
+            <li><a href="#TempsTravailAnnuel">Temps de travail annuel</a></li>
+        </ul>
+    </nav>
 
-    <a id="prev" onclick="moveImage(-100)">❮</a>
-    <a id="next" onclick="moveImage(100)">❯</a> -->
-
-    <script type="text/javascript" src="test.js"></script> 
-
-    <div id="container">
-        <div id="content">
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.
-            Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet.
+    <section id="MvtSoc">
+        <div id="ccc">
+            <canvas id="aaa" aria-label="chart" role="img"></canvas>
+            
+            <canvas id="bbb" aria-label="chart" role="img"></canvas>
         </div>
-    </div>
+        <!-- Boutons pour changer le graphique (graphique annuel ou mensuel et de base ou croissant) -->
+        <div id="ddd">
+            <button id="but1">Investissement</button>
+            <button id="but2">Collisions</button>
+        </div>
+    </section>
 
-    <button id="slideLeft" type="button">Prev</button>
-    <button id="slideRight" type="button">Next</button>
+    <section id="JourRepos">
+
+    </section>
+
+    <section id="TempsTravailAnnuel">
+
+    </section>
     
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var buttonInvestissement = document.getElementById('but1');
+            var buttonCollisions = document.getElementById('but2');
+            var canvasInvestissement = document.getElementById('aaa');
+            var canvasCollisions = document.getElementById('bbb');
+    
+            buttonInvestissement.addEventListener('click', function () {
+                canvasCollisions.style.display = 'none';
+                canvasInvestissement.style.display = 'block';
+            });
+    
+            buttonCollisions.addEventListener('click', function () {
+                canvasInvestissement.style.display = 'none';
+                canvasCollisions.style.display = 'block';
+            });
+        });
+    </script>
+    
+    
+    
+    
+    <!-- APPEL DES FICHIERS JAVASCRIPT -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script type="text/javascript" src="test.js"></script>
+    <script type="text/javascript" src="apparitionsCanvas.js"></script>
+      
 </body>
 </html> 

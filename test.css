@@ -1,58 +1,98 @@
-/* body {
-    overflow-x: hidden;
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #111111;
+    color: #ffffff;
 }
 
-#image {
-    position: absolute; 
-    left: 0; 
-    top: 0; 
-    height: 100vh; 
-    z-index: 1;
+nav {
+    margin: 15px;
+    float: right;
 }
 
-.prev, .next {
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+nav ul li:active, nav ul li a:active {
+    background-color: red;
+    text-decoration: none;
+}
+
+#MvtSoc {
+    display: none; /* Si tu veux que la section soit initialement cachée */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#aaa,
+#bbb {
+    display: none; /* Cache les canvases par défaut */
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#ccc {
     position: fixed;
-    top: 50%;
-    z-index: 15;
-    width: 42.5px;
-    height: 50px;
-    padding-left: 24px;
-    padding-top: 16px;
-    padding-right: 0px;
-    border-radius: 5px;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: 0.6s ease;
-    background-color: rgba(0,0,0,0.8);
+    top: 15%;
+    left: 10%;
+    width: 50%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: red; /* Ajuste selon tes préférences */
 }
 
-.prev {
-    left: 10px;
+#fff {
+    position: fixed;
+    top: 45%;
+    left: 10%;
+    width: 50%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: red; /* Ajuste selon tes préférences */
 }
 
-.next {
-    right: 10px;
-} */
-
-/* On hover, add a black background color with a little bit see-through */
-/* .prev:hover, .next:hover {
-    color: rgba(0,0,0,0.8);
-    background-color: rgba(255,255,255,0.8);
-} */
-
-/* BAZAR */
-
-#container {
-    border: 1px solid #ccc; 
-    overflow: scroll; 
-    width: 800px;
-    height: 500px;
+#ddd {
+    position: fixed;
+    top: 15%;
+    right: 5%;
+    width: 30%;
+    height: 100%;
 }
 
-#content {
-    background-color: #ccc; 
-    width: 100px;
-    white-space: nowrap;
+#ddd button {
+    height: 5%;
+    border-radius: 10px;
+    background-color: blue;
+    font-size: large;
+}
+
+/* Investissement */
+#but1 {
+    position: fixed;
+    top: 15%;
+    right: 5%;
+    width: 10%;
+    height: 70%;
+    border-radius: 10px;
+}
+
+/* Collisions */
+#but2 {
+    position: fixed;
+    top: 15%;
+    right: 17.5%;
+    width: 7%;
+    height: 100%;
 }
