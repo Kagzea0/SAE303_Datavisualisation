@@ -1,408 +1,144 @@
 * {
-    box-sizing: border-box
-}
-
-html,body {
-    padding: 0;
     margin: 0;
-    overflow-y: hidden;  
+    padding: 0;
+    background-color: #111111;
+    color: #ffffff;
 }
 
-/* Fading animation */
-.fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
+nav {
+    margin: 15px;
+    float: right;
 }
 
-@keyframes fade {
-    from {opacity: 0;} 
-    to {opacity: 0}
+nav ul {
+    list-style-type: none;
 }
 
-/* On smaller screens, decrease text size */
-/* @media only screen and (max-width: 300px) {
-    .prev, .next,.text {font-size: 11px}
-} */
-
-/* BOUTONS DE NAVIGATION ENTRE LES SLIDES */
-
-
-
-/* Slideshow container */
-.slide {
-    width: 62%;
-    height: 75%;
-    margin: 20px;
-    transition: .5s ease-in-out;    
-    display: flex;
+nav ul li {
+    display: inline-block;
+    padding: 10px;
 }
 
-/* INVESTISSEMENT SNCF */
+nav ul li a {
+    text-decoration: none;
+    font-size: xx-large;
+}
 
-#ButInvOpen {
+nav ul li:active, nav ul li a:active {
+    background-color: red;
+    text-decoration: none;
+}
+
+/* JOURNÉES PERDUES PAR AN OU PAR MOIS */
+
+#MvtSoc {
     position: absolute;
-    left: 123.6%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
+    top: 15%;
+    left: 10%;
+    width: 50%;
+    height: 65%;
+    display: none; /* Cache initialement la section */
+    padding: 20px;
     border-radius: 10px;
-    opacity: 0;
-}
-
-#Investissements {
-    position: absolute;
-    left: 107.5%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#InvestissementsSNCF {    
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButInvClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButInvClose:hover {
-    background-color: lightgrey;
-}
-
-/* COLLISIONS DANS LES PASSAGES A NIVEAU */
-
-#ButColOpen {
-    position: absolute;
-    left: 202%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
-    border-radius: 10px;
-    opacity: 0;
-}
-
-#Collisions {
-    position: absolute;
-    left: 185.75%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#CollisionsDepuis2004 {
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButColClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButColClose:hover {
-    background-color: lightgrey;
-}
-
-/* MOUVEMENTS SOCIAUX ANNUELS DEPUIS 1947 */
-
-#ButMvtAnnuelsOpen {
-    position: absolute;
-    left: 280%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
-    border-radius: 10px;
-    opacity: 0;
+    background-color: #eeeeee;
 }
 
 #MvtAnnuels {
-    position: absolute;
-    left: 264%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#MvtAnnuelsDepuis1947 {
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButMvtAnnuelsClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButMvtAnnuelsClose:hover {
-    background-color: lightgrey;
-}
-
-/* MOUVEMENTS SOCIAUX MENSUELS DEPUIS 1994 */
-
-#ButMvtMensuelsOpen {
-    position: absolute;
-    left: 358.5%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
-    border-radius: 10px;
-    opacity: 0;
+    position: fixed;
+    top: 30%;
+    background-color: #eeeeee;
 }
 
 #MvtMensuels {
-    position: absolute;
-    left: 342.25%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
+    position: fixed;
+    top: 30%;
+    background-color: #eeeeee;
 }
 
-#MvtMensuelsDepuis1994 {
+#DivButMvtSoc {
+    position: fixed;
+    top: 25%;
+    right: 5%;
+    width: 30%;
+    height: 50%;
+    background-color: blue;
+}
+
+#DivButMvtSoc p {
+    position: relative;
+    top: 15%;
+    left: 10%;
+    height: 50%;
+    width: 75%;
+    background-color: blue;
+}
+
+#DivButMvtSoc button {
+    height: 7.5%;
+    border-radius: 10px;
+    background-color: green;
+    font-size: large;
+}
+
+#DivButMvtSoc button:hover {
+    background-color: red;
+}
+
+/* Investissement */
+#butMensuels {
+    position: fixed;
+    top: 40%;
+    right: 15%;
+    width: 10%;
+    border-radius: 10px;
+}
+
+/* Collisions */
+#butAnnuels {
+    position: fixed;
+    top: 55%;
+    right: 15%;
+    width: 10%;
+    font-size: 24px;
+}
+
+#textMvtSoc {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    font-size: 24px;
+    transform: translateX(-50%);
+    background-color: #eeeeee;
+    color: #111111;
+}
+
+/* TEMPS DE TRAVAIL ANNUEL */
+
+#TTA {
+    position: absolute;
+    top: 15%;
+    left: 10%;
     width: 50%;
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButMvtMensuelClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButMvtMensuelClose:hover {
-    background-color: lightgrey;
-}
-
-/* REGULARITE MENSUEL DU TVG DEPUIS 2015 */
-
-#ButRegulTGVOpen {
-    position: absolute;
-    left: 436.7%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
+    height: 65%;
+    display: none; /* Cache initialement la section */
+    padding: 20px;
     border-radius: 10px;
-    opacity: 0;
+    background-color: #eeeeee;
 }
 
-#RegulariteTGV {
+#TempsTravailAnnuel {
+    position: fixed;
+    top: 30%;
+    background-color: #eeeeee;
+}
+
+#textTTA {
     position: absolute;
-    left: 420.5%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#RegulariteMensuelleTGV2015 {
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButRegulTGVClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButRegulTGVClose:hover {
-    background-color: lightgrey;
-}
-
-/* TEMPS DE TRAVAIL ANNUEL DEPUIS 1957 */
-
-#ButTtaOpen {
-    position: absolute;
-    left: 515%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
-    border-radius: 10px;
-    opacity: 0;
-}
-
-#TtaAnnuel1957 {
-    position: absolute;
-    left: 499%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#TempsTravailAnnuelDepuis1957 {
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButTtaClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButTtaClose:hover {
-    background-color: lightgrey;
-}
-
-/* TRAFIC FRET ET VOYAGEURS DEPUIS 1841 */
-
-#ButTraficOpen {
-    position: absolute;
-    left: 593.15%;
-    top: 28.5%;
-    z-index: 9;
-    width: 32.7%;
-    height: 47%;
-    background-color: black;
-    border: none;
-    border-radius: 10px;
-    opacity: 0;
-}
-
-#Trafic {
-    position: absolute;
-    left: 577.2%;
-    top: 25%;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#TraficDepuis1841 {
-    z-index: 10;
-    padding: 35px;
-    border-radius: 20px;
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    background-color: white;
-    opacity: 1;
-}
-
-#ButTraficClose {
-    position: absolute;
-    top: 3%;
-    left: 95%;
-    z-index: 11;
-    width: 40px;
-    height: 40px;
-    border: none;
-    border-radius: 50px;
-    background-color: white;
-    transition: opacity 0.5s ease-in-out;
-}
-
-#ButTraficClose:hover {
-    background-color: lightgrey;
-}
-
-/* INFOGRAPHIE */
-
-#Infographie {
-    position: absolute;
-    left: 670.75%;
-    top: 25%;
-    z-index: 10;
-    height: 70%;
-
-    padding: 5px;
-    border-radius: 20px;
-
-    animation-duration: 0.5s all ease-in-out;
-    animation-direction: normal;
-    opacity: 1;
-
-    background-color: white;
+    top: 5%;
+    left: 50%;
+    width: 84%;
+    font-size: 24px;
+    transform: translateX(-50%);
+    background-color: #eeeeee;
+    color: #111111;
 }

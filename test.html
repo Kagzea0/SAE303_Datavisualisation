@@ -4,66 +4,147 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chart JS</title>
-    <link rel="stylesheet" href="test.css">
 </head>
 <body>  
+    <canvas id="MvtAnnuels" aria-label="chart" role="img"></canvas>
+    <canvas id="MvtMensuels" aria-label="chart" role="img"></canvas>
     
-    <nav>
-        <ul>
-            <!-- <li><a href="#bbb">Mouvements sociaux</a></li> -->
-            <li><a href="#MvtSoc">Mouvements sociaux</a></li>
-            <li><a href="#JourRepos">Jour de repos</a></li>
-            <li><a href="#TempsTravailAnnuel">Temps de travail annuel</a></li>
-        </ul>
-    </nav>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>    
 
-    <section id="MvtSoc">
-        <div id="ccc">
-            <canvas id="aaa" aria-label="chart" role="img"></canvas>
-            
-            <canvas id="bbb" aria-label="chart" role="img"></canvas>
-        </div>
-        <!-- Boutons pour changer le graphique (graphique annuel ou mensuel et de base ou croissant) -->
-        <div id="ddd">
-            <button id="but1">Investissement</button>
-            <button id="but2">Collisions</button>
-        </div>
-    </section>
+    <script> // Graphique des journées perdues par an
+        const MvtAnnuelsCanvas = document.getElementById('MvtAnnuels');
+        const MvtAnnuelsChart = new Chart(MvtAnnuelsCanvas, {
+            type: 'line',
+            data: {
+                labels: [], // Les dates iront ici
+                datasets: [
+                    {
+                        label: 'Journées perdues par an',
+                        data: [], // Les données iront ici
+                        fill: true,
+                        backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                        borderColor: 'rgba(149, 0, 0, 1)',
+                        borderWidth: 1,
+                        radius: 0, // Taille des bulles
+                        hoverRadius: 0, // Taille au survol (même taille que radius)
+                        text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
+                    }
+                ]
+            },
+            options: {
+                tooltips: {
+                    callbacks: {
+                        label: function (tooltipItem, data) {
+                            // Récupère l'index de la bulle survolée
+                            const index = tooltipItem.index;
 
-    <section id="JourRepos">
+                            // Récupère le texte personnalisé correspondant à l'index
+                            const text = data.datasets[tooltipItem.datasetIndex].text[index];
 
-    </section>
-
-    <section id="TempsTravailAnnuel">
-
-    </section>
-    
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            var buttonInvestissement = document.getElementById('but1');
-            var buttonCollisions = document.getElementById('but2');
-            var canvasInvestissement = document.getElementById('aaa');
-            var canvasCollisions = document.getElementById('bbb');
-    
-            buttonInvestissement.addEventListener('click', function () {
-                canvasCollisions.style.display = 'none';
-                canvasInvestissement.style.display = 'block';
-            });
-    
-            buttonCollisions.addEventListener('click', function () {
-                canvasInvestissement.style.display = 'none';
-                canvasCollisions.style.display = 'block';
-            });
+                            return text;
+                        }
+                    }
+                }
+            }
         });
-    </script>
-    
-    
-    
-    
-    <!-- APPEL DES FICHIERS JAVASCRIPT -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
-    <script type="text/javascript" src="test.js"></script>
-    <script type="text/javascript" src="apparitionsCanvas.js"></script>
-      
+
+        // Charger le fichier JSON
+        fetch('JSON/MvtAnnuels1994.json')
+            .then(response => response.json())
+            .then(data => {
+                // Mettre à jour les données du graphique
+                updateChartData(MvtAnnuelsChart, data);
+            })
+            .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
+
+        // Fonction pour mettre à jour les données du graphique
+        function updateChartData(chart, data) {
+
+            chart.data.labels = data.map(entry => entry.date);
+
+            chart.data.datasets[0].data = data.map(entry =>
+            entry.journees_perdues);
+
+            chart.options.tooltips.callbacks.label = function (tooltipItem, data) {
+                // Récupère l'index de la bulle survolée
+                const index = tooltipItem.index;
+
+                // Récupère le texte personnalisé correspondant à l'index
+                const text = data.datasets[tooltipItem.datasetIndex].text[index];
+
+                return text;
+            };
+
+            chart.update(); // Mettre à jour le graphique
+        }
+    </script>  
+
+    <script> // Graphique des journées perdues par mois
+        const MvtMensuelsCanvas = document.getElementById('MvtMensuels');
+        const MvtMensuelsChart = new Chart(MvtMensuelsCanvas, {
+            type: 'line',
+            data: {
+                labels: [], // Les dates iront ici
+                datasets: [
+                    {
+                        label: 'Journées perdues par mois',
+                        data: [], // Les données iront ici
+                        fill: true,
+                        backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                        borderColor: 'rgba(149, 0, 0, 1)',
+                        borderWidth: 1,
+                        radius: 0, // Taille des bulles
+                        hoverRadius: 0, // Taille au survol (même taille que radius)
+                        text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
+                    }
+                ]
+            },
+            options: {
+                tooltips: {
+                    callbacks: {
+                        label: function (tooltipItem, data) {
+                            // Récupère l'index de la bulle survolée
+                            const index = tooltipItem.index;
+
+                            // Récupère le texte personnalisé correspondant à l'index
+                            const text = data.datasets[tooltipItem.datasetIndex].text[index];
+
+                            return text;
+                        }
+                    }
+                }
+            }
+        });
+
+        // Charger le fichier JSON
+        fetch('JSON/MvtMensuels1994.json')
+            .then(response => response.json())
+            .then(data => {
+                // Mettre à jour les données du graphique
+                updateChartData(MvtMensuelsChart, data);
+            })
+            .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
+
+        // Fonction pour mettre à jour les données du graphique
+        function updateChartData(chart, data) {
+
+            chart.data.labels = data.map(entry => entry.date);
+
+            chart.data.datasets[0].data = data.map(entry =>
+            entry.journees_perdues);
+
+            chart.options.tooltips.callbacks.label = function (tooltipItem, data) {
+                // Récupère l'index de la bulle survolée
+                const index = tooltipItem.index;
+
+                // Récupère le texte personnalisé correspondant à l'index
+                const text = data.datasets[tooltipItem.datasetIndex].text[index];
+
+                return text;
+            };
+
+            chart.update(); // Mettre à jour le graphique
+        }
+    </script>  
 </body>
 </html> 

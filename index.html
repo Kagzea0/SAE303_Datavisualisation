@@ -6,74 +6,71 @@
     <title>Chart JS</title>
     <link rel="stylesheet" href="index.css">
 </head>
-<body>    
+<body>  
     
-    <img src="Images/Frise.png" id="image" style="position: absolute; left: 0; top: 0; height: 100vh; z-index: 1;">
+    <nav>
+        <ul>
+            <!-- <li><a href="#bbb">Mouvements sociaux</a></li> -->
+            <li><a href="#MvtSoc">Mouvements sociaux</a></li>
+            <li><a href="#JourRepos">Jour de repos</a></li>
+            <li><a href="#TTA">Temps de travail annuel</a></li>
+        </ul>
+    </nav>
 
-    <div class="carrousel">
-        
-        <!-- LES INVESTISSEMENTS SNCF -->
-        <button id="ButInvOpen"></button>
-        <div class="slide fade" id="Investissements">
-            <canvas id="InvestissementsSNCF" aria-label="chart" role="img"></canvas>
-            <button id="ButInvClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
+    <section id="MvtSoc">
+        <div id="DivCanMvtSoc">
+            <div id="canvasContainer">
+                <!-- Canvas des investissements -->
+                <canvas id="MvtAnnuels" aria-label="chart" role="img"></canvas>
+                <!-- Titre du canvas -->
+                <div id="textMvtSoc"></div>
+            </div>
+            <!-- Canvas des collisions -->
+            <canvas id="MvtMensuels" aria-label="chart" role="img"></canvas>
         </div>
-        
-        <!-- LES COLLISIONS A UN PASSAGE A NIVEAU -->
-        <button id="ButColOpen"></button>
-        <div class="slide fade" id="Collisions">
-            <canvas id="CollisionsDepuis2004" aria-label="chart" role="img"></canvas>
-            <button id="ButColClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
+        <!-- Boutons pour changer le graphique (graphique annuel ou mensuel et de base ou croissant) -->
+        <div id="DivButMvtSoc">
+            <p>Mouvements sociaux</p>
+            <!-- but1 = mensuels -->
+            <button id="butMensuels">Mensuels</button>
+            <!-- but2 = annuels -->
+            <button id="butAnnuels">Annuels</button>
         </div>
+    </section>    
 
-        <!-- LES MOUVEMENTS ANNUELS DEPUIS 1947 -->
-        <button id="ButMvtAnnuelsOpen"></button>
-        <div class="slide fade" id="MvtAnnuels">
-            <canvas id="MvtAnnuelsDepuis1947" aria-label="chart" role="img"></canvas>
-            <button id="ButMvtAnnuelsClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
-        </div>
+    <section id="JourRepos">
+    </section>
 
-        <!-- LES MOUVEMENTS MENSUELS DEPUIS 1994 -->
-        <button id="ButMvtMensuelsOpen"></button>
-        <div class="slide fade" id="MvtMensuels">
-            <canvas id="MvtMensuelsDepuis1994" aria-label="chart" role="img"></canvas>
-            <button id="ButMvtMensuelClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
-        </div>
-
-        <!-- LA REGULARITE MENSUELLE DES TGV DEPUIS 2015 -->
-        <button id="ButRegulTGVOpen"></button>
-        <div class="slide fade" id="RegulariteTGV">
-            <canvas id="RegulariteMensuelleTGV2015" aria-label="chart" role="img"></canvas>
-            <button id="ButRegulTGVClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
-        </div>
-
-        <!-- LE TEMPS DE TRAVAIL ANNUEL DEPUIS 1957 -->
-        <button id="ButTtaOpen"></button>
-        <div class="slide fade" id="TtaAnnuel1957">
-            <canvas id="TempsTravailAnnuelDepuis1957" aria-label="chart" role="img"></canvas>
-            <button id="ButTtaClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
-        </div>
-
-        <!-- LE TRAFIC FRET ET VOYAGEUR DEPUIS 1841 -->
-        <button id="ButTraficOpen"></button>
-        <div class="slide fade" id="Trafic">
-            <canvas id="TraficDepuis1841" aria-label="chart" role="img"></canvas>
-            <button id="ButTraficClose"><img src="Images/IconButClose.svg" alt="Bouton de fermeture du canva"></button>
-        </div>
-
-        <!-- INFOGRAPHIE -->
-        <button id="ButInfographieOpen"></button>
-        <img src="Images/Infographie.png" alt="Infographie" id="Infographie">
-
-    </div>
-
+    <section id="TTA">
+        <canvas id="TempsTravailAnnuel" aria-label="chart" role="img"></canvas>
+        <!-- Titre du canvas -->
+        <div id="textTTA">Temps de travail annuel entre un fonctionnaire et un salarié à la SNCF</div>
+    </section>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var butMensuels = document.getElementById('butMensuels');
+            var butAnnuels = document.getElementById('butAnnuels');
+            
+            var canvasAnnuels = document.getElementById('MvtAnnuels');
+            var canvasMensuels = document.getElementById('MvtMensuels');
+    
+            butAnnuels.addEventListener('click', function () {
+                canvasMensuels.style.display = 'none';
+                canvasAnnuels.style.display = 'block';
+            });
+    
+            butMensuels.addEventListener('click', function () {
+                canvasAnnuels.style.display = 'none';
+                canvasMensuels.style.display = 'block';
+            });
+        });
+    </script>
+    
+    <!-- APPEL DES FICHIERS JAVASCRIPT -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
-
-    <script type="text/javascript" src="carrousel.js"></script>
-
-    <!-- <script type="text/javascript" src="index.js"></script> -->
-    
-    <script src="BoutonsApparitionCanvas.js"></script>
-
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="apparitionsCanvas.js"></script>
+      
 </body>
 </html> 
