@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#bgImage {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.image-container {
+    position: absolute;
+    top: 63%;
+    transform: translateY(-50%);
+    animation: deplacementImage 5s linear infinite;
+}
+
+#train {
+    height: 100px;
+    object-fit: cover;
+}
+
+#rail {
+    position: fixed;
+    top: 75%;
+    height: 30px;
+    object-fit: cover;
+    z-index: -1;
+}
+
+@keyframes deplacementImage {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}

@@ -1,77 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chart JS</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Animation CSS</title>
+  <link rel="stylesheet" href="test.css">
 </head>
-<body>  
-    <input type="checkbox" id="butCadre" checked onchange="updateCanvas()"> Cadre
-    <input type="checkbox" id="butExecution" onchange="updateCanvas()"> Execution
-    <input type="checkbox" id="butMaitrise" onchange="updateCanvas()"> Maitrise
-
-    <canvas id="Cadre" aria-label="chart" role="img"></canvas>
-    <canvas id="Execution" aria-label="chart" role="img"></canvas>
-    <canvas id="Maitrise" aria-label="chart" role="img"></canvas>
-
-    <canvas id="CadreMaitrise" aria-label="chart" role="img"></canvas>
-    <canvas id="CadreExecution" aria-label="chart" role="img"></canvas>
-    <canvas id="MaitriseExecution" aria-label="chart" role="img"></canvas>
-
-    <canvas id="CadreMaitriseExecution" aria-label="chart" role="img"></canvas>
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>    
-
-    <script>
-        window.onload = function() {
-            uncheckAllCheckboxes();
-            document.getElementById('butCadre').checked = true;
-            updateCanvas();
-        };
-    
-        function uncheckAllCheckboxes() {
-            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
-            checkboxes.forEach(function(checkbox) {
-                checkbox.checked = false;
-            });
-        }
-    
-        function updateCanvas() {
-            var cadreChecked = document.getElementById('butCadre').checked;
-            var executionChecked = document.getElementById('butExecution').checked;
-            var maitriseChecked = document.getElementById('butMaitrise').checked;
-    
-            var canvasList = ["Cadre", "Execution", "Maitrise", "CadreMaitrise", "CadreExecution", "MaitriseExecution", "CadreMaitriseExecution"];
-            canvasList.forEach(function(id) {
-                document.getElementById(id).style.display = 'none';
-            });
-
-            // L'affichage des canvas en fonctions des checkboxs validés commence ici
-    
-            if (cadreChecked && executionChecked && maitriseChecked) {
-                document.getElementById('CadreMaitriseExecution').style.display = 'block';
-            } 
-            else if (cadreChecked && executionChecked) {
-                document.getElementById('CadreExecution').style.display = 'block';
-            } 
-            else if (cadreChecked && maitriseChecked) {
-                document.getElementById('CadreMaitrise').style.display = 'block';
-            }
-            else if (executionChecked && maitriseChecked) {
-                document.getElementById('MaitriseExecution').style.display = 'block';
-            }
-            else if (cadreChecked) {
-                document.getElementById('Cadre').style.display = 'block'; //Fait
-            }
-            else if (executionChecked) {
-                document.getElementById('Execution').style.display = 'block'; //Fait
-            }
-            else if (maitriseChecked) {
-                document.getElementById('Maitrise').style.display = 'block'; //Fait
-            }          
-        }
-    </script>
-
-    <script type="text/javascript" src="test.js"></script>
+<body>    
+    <img src="Images/Décor.jpg" alt="Background Image" id="bgImage">
+    <div class="image-container">
+        <img src="Images/Train.png" alt="Image à animer" id="train">
+    </div>
+    <img src="Images/Rail.jpg" alt="Rails du train" id="rail">
 </body>
-</html> 
+</html>

@@ -7,7 +7,13 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>  
-    
+    <!-- Image de fond et animation du train -->
+    <img src="Images/Décor.jpg" alt="Background Image" id="bgImage">
+    <div class="image-container">
+        <img src="Images/Train.png" alt="Image à animer" id="train">
+    </div>
+    <img src="Images/Rail.jpg" alt="Rails du train" id="rail">
+
     <nav>
         <ul>
             <!-- <li><a href="#bbb">Mouvements sociaux</a></li> -->
@@ -40,10 +46,12 @@
     </section>    
 
     <section id="JourRepos">
-        <!-- Checkbox pour choisir entre les types de métiers -->
-        <input type="checkbox" id="butCadre" checked onchange="updateCanvas()"> Cadre
-        <input type="checkbox" id="butExecution" onchange="updateCanvas()"> Execution
-        <input type="checkbox" id="butMaitrise" onchange="updateCanvas()"> Maitrise
+        <div id="ButsJourRepos"><br>
+            <!-- Checkbox pour choisir entre les types de métiers -->
+            <label><input type="checkbox" id="butCadre" checked onchange="updateCanvas()"> Cadre</label><br><br>
+            <label><input type="checkbox" id="butExecution" onchange="updateCanvas()"> Exécution</label><br><br>
+            <label><input type="checkbox" id="butMaitrise" onchange="updateCanvas()"> Maîtrise</label>
+        </div>
 
         <!-- Canvas avec un seul type de métier -->
         <canvas id="Cadre" aria-label="chart" role="img"></canvas>
