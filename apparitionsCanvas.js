@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Masquer les autres sections
         SecTTA.style.display = 'none';
+        SecJourRepos.style.display = 'none';
 
         if (SecMvtSoc.style.display === 'none' || SecMvtSoc.style.display === '') {
             SecMvtSoc.style.display = 'block';
@@ -42,16 +43,36 @@ document.addEventListener('DOMContentLoaded', function () {
         textMvtSoc.textContent = currentText;
     });
 
-    /* TEMPS DE TRAVAIL ANNUEL */
+    /* JOURS DE REPOS */
 
-    var aaa = document.querySelector('a[href="#TTA"]');
-    var SecTTA = document.getElementById('TTA');
+    var JourRepos = document.querySelector('a[href="#JourRepos"]');
+    var SecJourRepos = document.getElementById('JourRepos');
 
-    aaa.addEventListener('click', function (e) {
+    JourRepos.addEventListener('click', function (e) {
         e.preventDefault();
 
         // Masquer les autres sections
         SecMvtSoc.style.display = 'none';
+        SecTTA.style.display = 'none';
+
+        if (SecJourRepos.style.display === 'none' || SecJourRepos.style.display === '') {
+            SecJourRepos.style.display = 'block';
+        } else {
+            SecJourRepos.style.display = 'none';
+        }
+    });
+
+    /* TEMPS DE TRAVAIL ANNUEL */
+
+    var tta = document.querySelector('a[href="#TTA"]');
+    var SecTTA = document.getElementById('TTA');
+
+    tta.addEventListener('click', function (e) {
+        e.preventDefault();
+
+        // Masquer les autres sections
+        SecMvtSoc.style.display = 'none';
+        SecJourRepos.style.display = 'none';
 
         if (SecTTA.style.display === 'none' || SecTTA.style.display === '') {
             SecTTA.style.display = 'block';
@@ -60,3 +81,4 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 });
+

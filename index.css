@@ -112,6 +112,25 @@ nav ul li:active, nav ul li a:active {
     color: #111111;
 }
 
+/* JOURS DE REPOS */
+
+#JourRepos {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    width: 50%;
+    height: 65%;
+    display: none; /* Cache initialement la section */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    color: #111111;
+}
+
+#JourRepos * {
+    background-color: #eeeeee;
+}
+
 /* TEMPS DE TRAVAIL ANNUEL */
 
 #TTA {

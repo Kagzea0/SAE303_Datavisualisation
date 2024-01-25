@@ -1,0 +1,14 @@
+[
+    { "date": "2010", "nombre_agents_maitrise": 26658.0, "nombre_agents_execution": 32835.0 },
+    { "date": "2011", "nombre_agents_maitrise": 26142.0, "nombre_agents_execution": 33351.0 },
+    { "date": "2012", "nombre_agents_maitrise": 25583.0, "nombre_agents_execution": 33367.0 },
+    { "date": "2013", "nombre_agents_maitrise": 26340.0, "nombre_agents_execution": 33954.0 },
+    { "date": "2014", "nombre_agents_maitrise": 26171.0, "nombre_agents_execution": 33374.0 },
+    { "date": "2015", "nombre_agents_maitrise": 26257.0, "nombre_agents_execution": 33042.0 },
+    { "date": "2016", "nombre_agents_maitrise": 22402.0, "nombre_agents_execution": 27237.0 },
+    { "date": "2017", "nombre_agents_maitrise": 25557.0, "nombre_agents_execution": 27940.0 },
+    { "date": "2018", "nombre_agents_maitrise": 24886.0, "nombre_agents_execution": 27041.0 },
+    { "date": "2019", "nombre_agents_maitrise": 28937.0, "nombre_agents_execution": 33909.0 },
+    { "date": "2020", "nombre_agents_maitrise": 33317.0, "nombre_agents_execution": 10579.0 },
+    { "date": "2021", "nombre_agents_maitrise": 26739.0, "nombre_agents_execution": 31847.0 }
+]

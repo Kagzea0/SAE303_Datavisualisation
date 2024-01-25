@@ -6,145 +6,72 @@
     <title>Chart JS</title>
 </head>
 <body>  
-    <canvas id="MvtAnnuels" aria-label="chart" role="img"></canvas>
-    <canvas id="MvtMensuels" aria-label="chart" role="img"></canvas>
+    <input type="checkbox" id="butCadre" checked onchange="updateCanvas()"> Cadre
+    <input type="checkbox" id="butExecution" onchange="updateCanvas()"> Execution
+    <input type="checkbox" id="butMaitrise" onchange="updateCanvas()"> Maitrise
+
+    <canvas id="Cadre" aria-label="chart" role="img"></canvas>
+    <canvas id="Execution" aria-label="chart" role="img"></canvas>
+    <canvas id="Maitrise" aria-label="chart" role="img"></canvas>
+
+    <canvas id="CadreMaitrise" aria-label="chart" role="img"></canvas>
+    <canvas id="CadreExecution" aria-label="chart" role="img"></canvas>
+    <canvas id="MaitriseExecution" aria-label="chart" role="img"></canvas>
+
+    <canvas id="CadreMaitriseExecution" aria-label="chart" role="img"></canvas>
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>    
 
-    <script> // Graphique des journées perdues par an
-        const MvtAnnuelsCanvas = document.getElementById('MvtAnnuels');
-        const MvtAnnuelsChart = new Chart(MvtAnnuelsCanvas, {
-            type: 'line',
-            data: {
-                labels: [], // Les dates iront ici
-                datasets: [
-                    {
-                        label: 'Journées perdues par an',
-                        data: [], // Les données iront ici
-                        fill: true,
-                        backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
-                        borderColor: 'rgba(149, 0, 0, 1)',
-                        borderWidth: 1,
-                        radius: 0, // Taille des bulles
-                        hoverRadius: 0, // Taille au survol (même taille que radius)
-                        text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
-                    }
-                ]
-            },
-            options: {
-                tooltips: {
-                    callbacks: {
-                        label: function (tooltipItem, data) {
-                            // Récupère l'index de la bulle survolée
-                            const index = tooltipItem.index;
-
-                            // Récupère le texte personnalisé correspondant à l'index
-                            const text = data.datasets[tooltipItem.datasetIndex].text[index];
-
-                            return text;
-                        }
-                    }
-                }
-            }
-        });
-
-        // Charger le fichier JSON
-        fetch('JSON/MvtAnnuels1994.json')
-            .then(response => response.json())
-            .then(data => {
-                // Mettre à jour les données du graphique
-                updateChartData(MvtAnnuelsChart, data);
-            })
-            .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
-
-        // Fonction pour mettre à jour les données du graphique
-        function updateChartData(chart, data) {
-
-            chart.data.labels = data.map(entry => entry.date);
-
-            chart.data.datasets[0].data = data.map(entry =>
-            entry.journees_perdues);
-
-            chart.options.tooltips.callbacks.label = function (tooltipItem, data) {
-                // Récupère l'index de la bulle survolée
-                const index = tooltipItem.index;
-
-                // Récupère le texte personnalisé correspondant à l'index
-                const text = data.datasets[tooltipItem.datasetIndex].text[index];
-
-                return text;
-            };
-
-            chart.update(); // Mettre à jour le graphique
+    <script>
+        window.onload = function() {
+            uncheckAllCheckboxes();
+            document.getElementById('butCadre').checked = true;
+            updateCanvas();
+        };
+    
+        function uncheckAllCheckboxes() {
+            var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+            checkboxes.forEach(function(checkbox) {
+                checkbox.checked = false;
+            });
         }
-    </script>  
+    
+        function updateCanvas() {
+            var cadreChecked = document.getElementById('butCadre').checked;
+            var executionChecked = document.getElementById('butExecution').checked;
+            var maitriseChecked = document.getElementById('butMaitrise').checked;
+    
+            var canvasList = ["Cadre", "Execution", "Maitrise", "CadreMaitrise", "CadreExecution", "MaitriseExecution", "CadreMaitriseExecution"];
+            canvasList.forEach(function(id) {
+                document.getElementById(id).style.display = 'none';
+            });
 
-    <script> // Graphique des journées perdues par mois
-        const MvtMensuelsCanvas = document.getElementById('MvtMensuels');
-        const MvtMensuelsChart = new Chart(MvtMensuelsCanvas, {
-            type: 'line',
-            data: {
-                labels: [], // Les dates iront ici
-                datasets: [
-                    {
-                        label: 'Journées perdues par mois',
-                        data: [], // Les données iront ici
-                        fill: true,
-                        backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
-                        borderColor: 'rgba(149, 0, 0, 1)',
-                        borderWidth: 1,
-                        radius: 0, // Taille des bulles
-                        hoverRadius: 0, // Taille au survol (même taille que radius)
-                        text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
-                    }
-                ]
-            },
-            options: {
-                tooltips: {
-                    callbacks: {
-                        label: function (tooltipItem, data) {
-                            // Récupère l'index de la bulle survolée
-                            const index = tooltipItem.index;
-
-                            // Récupère le texte personnalisé correspondant à l'index
-                            const text = data.datasets[tooltipItem.datasetIndex].text[index];
-
-                            return text;
-                        }
-                    }
-                }
+            // L'affichage des canvas en fonctions des checkboxs validés commence ici
+    
+            if (cadreChecked && executionChecked && maitriseChecked) {
+                document.getElementById('CadreMaitriseExecution').style.display = 'block';
+            } 
+            else if (cadreChecked && executionChecked) {
+                document.getElementById('CadreExecution').style.display = 'block';
+            } 
+            else if (cadreChecked && maitriseChecked) {
+                document.getElementById('CadreMaitrise').style.display = 'block';
             }
-        });
-
-        // Charger le fichier JSON
-        fetch('JSON/MvtMensuels1994.json')
-            .then(response => response.json())
-            .then(data => {
-                // Mettre à jour les données du graphique
-                updateChartData(MvtMensuelsChart, data);
-            })
-            .catch(error => console.error('Erreur lors du chargement du fichier JSON :', error));
-
-        // Fonction pour mettre à jour les données du graphique
-        function updateChartData(chart, data) {
-
-            chart.data.labels = data.map(entry => entry.date);
-
-            chart.data.datasets[0].data = data.map(entry =>
-            entry.journees_perdues);
-
-            chart.options.tooltips.callbacks.label = function (tooltipItem, data) {
-                // Récupère l'index de la bulle survolée
-                const index = tooltipItem.index;
-
-                // Récupère le texte personnalisé correspondant à l'index
-                const text = data.datasets[tooltipItem.datasetIndex].text[index];
-
-                return text;
-            };
-
-            chart.update(); // Mettre à jour le graphique
+            else if (executionChecked && maitriseChecked) {
+                document.getElementById('MaitriseExecution').style.display = 'block';
+            }
+            else if (cadreChecked) {
+                document.getElementById('Cadre').style.display = 'block'; //Fait
+            }
+            else if (executionChecked) {
+                document.getElementById('Execution').style.display = 'block'; //Fait
+            }
+            else if (maitriseChecked) {
+                document.getElementById('Maitrise').style.display = 'block'; //Fait
+            }          
         }
-    </script>  
+    </script>
+
+    <script type="text/javascript" src="test.js"></script>
 </body>
 </html> 

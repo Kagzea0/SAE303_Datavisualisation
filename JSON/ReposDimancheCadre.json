@@ -1,14 +1,14 @@
 [
-    { "date": "2010", "college": "Cadre", "nombre_agents": 13088.0 },
-    { "date": "2011", "college": "Cadre", "nombre_agents": 13103.0 },
-    { "date": "2012", "college": "Cadre", "nombre_agents": 13171.0 },
-    { "date": "2013", "college": "Cadre", "nombre_agents": 14911.0 },
-    { "date": "2014", "college": "Cadre", "nombre_agents": 16322.0 },
-    { "date": "2015", "college": "Cadre", "nombre_agents": 22143.0 },
-    { "date": "2016", "college": "Cadre", "nombre_agents": 21994.0 },
-    { "date": "2017", "college": "Cadre", "nombre_agents": 12890.0 },
-    { "date": "2018", "college": "Cadre", "nombre_agents": 11313.0 },
-    { "date": "2019", "college": "Cadre", "nombre_agents": 13054.0 },
-    { "date": "2020", "college": "Cadre", "nombre_agents": 26065.0 },
-    { "date": "2021", "college": "Cadre", "nombre_agents": 9527.0 }
+    { "date": "2010", "nombre_agents_cadre": 13088.0 },
+    { "date": "2011", "nombre_agents_cadre": 13103.0 },
+    { "date": "2012", "nombre_agents_cadre": 13171.0 },
+    { "date": "2013", "nombre_agents_cadre": 14911.0 },
+    { "date": "2014", "nombre_agents_cadre": 16322.0 },
+    { "date": "2015", "nombre_agents_cadre": 22143.0 },
+    { "date": "2016", "nombre_agents_cadre": 21994.0 },
+    { "date": "2017", "nombre_agents_cadre": 12890.0 },
+    { "date": "2018", "nombre_agents_cadre": 11313.0 },
+    { "date": "2019", "nombre_agents_cadre": 13054.0 },
+    { "date": "2020", "nombre_agents_cadre": 26065.0 },
+    { "date": "2021", "nombre_agents_cadre": 9527.0 }
 ]
