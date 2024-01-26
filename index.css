@@ -384,7 +384,7 @@ nav ul li:active, nav ul li a:active {
 
 #ZoneTextTTA {
     position: fixed;
-    top: 40%;
+    top: 25%;
     right: 6.25%;
     z-index: 5;
     width: 30%;
@@ -403,6 +403,16 @@ nav ul li:active, nav ul li a:active {
     font-size: 20px;
     width: 80%;
     text-align: justify;
+}
+
+#ZoneStatsTTA {
+    position: fixed;
+    top: 60%;
+    right: 11%;
+    z-index: 5;
+    width: 25%;
+    border-radius: 10px;
+    font-size: 20px;
 }
 
 /* INFOGRAPHIE */
@@ -435,8 +445,18 @@ nav ul li:active, nav ul li a:active {
 
 #Infographie #ZoneTextInfog h2 {
     position: absolute;
-    top: 20%;
-    right: 27.5%;
+    top: 25%;
+    right: 27%;
     z-index: 5;
     font-size: 30px;
+}
+
+#Infographie #ZoneTextInfog p {
+    position: absolute;
+    top: 35%;
+    right: 23%;
+    width: 17.5%;
+    z-index: 5;
+    font-size: 20px;
+    text-align: justify;
 }

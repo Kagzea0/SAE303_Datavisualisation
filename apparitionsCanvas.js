@@ -22,7 +22,6 @@ document.addEventListener('DOMContentLoaded', function () {
         // Masquer les autres sections
         SecJourRepos.style.display = 'none'; //Jours repos
         SecTTA.style.display = 'none'; //Temps travail annuel
-        SecStats.style.display = 'none'; //Statistiques
         SecInfog.style.display = 'none'; //Infographie
 
         if (SecMvtSoc.style.display === 'none' || SecMvtSoc.style.display === '') {
@@ -56,7 +55,6 @@ document.addEventListener('DOMContentLoaded', function () {
         // Masquer les autres sections
         SecMvtSoc.style.display = 'none'; //Mouvements sociaux
         SecTTA.style.display = 'none'; //Temps travail annuel
-        SecStats.style.display = 'none'; //Statistiques
         SecInfog.style.display = 'none'; //Infographie
 
         if (SecJourRepos.style.display === 'none' || SecJourRepos.style.display === '') {
@@ -77,34 +75,12 @@ document.addEventListener('DOMContentLoaded', function () {
         // Masquer les autres sections
         SecMvtSoc.style.display = 'none'; //Mouvements sociaux
         SecJourRepos.style.display = 'none'; //Jours repos
-        SecStats.style.display = 'none'; //Statistiques
         SecInfog.style.display = 'none'; //Infographie
 
         if (SecTTA.style.display === 'none' || SecTTA.style.display === '') {
             SecTTA.style.display = 'block';
         } else {
             SecTTA.style.display = 'none';
-        }
-    });
-
-    /* STATISTIQUES */
-
-    var stats = document.querySelector('a[href="#Statistique"]');
-    var SecStats = document.getElementById('Statistique');
-
-    stats.addEventListener('click', function (e) {
-        e.preventDefault();
-
-        // Masquer les autres sections
-        SecMvtSoc.style.display = 'none'; //Mouvements sociaux
-        SecJourRepos.style.display = 'none'; //Jours repos
-        SecTTA.style.display = 'none'; //Temps travail annuel
-        SecInfog.style.display = 'none'; //Infographie
-
-        if (SecStats.style.display === 'none' || SecStats.style.display === '') {
-            SecStats.style.display = 'block';
-        } else {
-            SecStats.style.display = 'none';
         }
     });
 
@@ -120,7 +96,6 @@ document.addEventListener('DOMContentLoaded', function () {
         SecMvtSoc.style.display = 'none'; //Mouvements sociaux
         SecJourRepos.style.display = 'none'; //Jours repos
         SecTTA.style.display = 'none'; //Temps travail annuel
-        SecStats.style.display = 'none'; //Statistiques
 
         if (SecInfog.style.display === 'none' || SecInfog.style.display === '') {
             SecInfog.style.display = 'block';
