@@ -100,7 +100,7 @@ nav ul li:active, nav ul li a:active {
     text-decoration: none;
 }
 
-/* JOURNÉES PERDUES PAR AN OU PAR MOIS */
+/* MOUVEMENTS SOCIAUX */
 
 #MvtSoc {
     position: absolute;
@@ -155,7 +155,8 @@ nav ul li:active, nav ul li a:active {
     background-color: red;
 }
 
-/* Investissement */
+/* INVESTISSEMENTS */
+
 #butMensuels {
     position: fixed;
     top: 40%;
@@ -164,7 +165,8 @@ nav ul li:active, nav ul li a:active {
     border-radius: 10px;
 }
 
-/* Collisions */
+/* COLLISIONS */
+
 #butAnnuels {
     position: fixed;
     top: 55%;
@@ -270,4 +272,13 @@ nav ul li:active, nav ul li a:active {
     transform: translateX(-50%);
     background-color: #eeeeee;
     color: #111111;
+}
+
+#ZoneTextTTA {
+    position: fixed;
+    top: 25%;
+    right: 5%;
+    width: 30%;
+    height: 50%;
+    background-color: blue;
 }
