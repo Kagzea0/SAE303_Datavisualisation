@@ -4,6 +4,10 @@
     color: #111111;
 }
 
+body {
+    overflow-x : hidden; 
+}
+
 /* Image de fond et animation du train */
 
 #bgImage {
@@ -13,11 +17,12 @@
     width: 100%;
     height: 100%;
     z-index: -1;
+    object-fit: cover;
 }
 
 .image-container {
     position: absolute;
-    top: 63%;
+    top: 36.5%;
     transform: translateY(-50%);
     animation: deplacementImage 5s linear infinite;
 }
@@ -29,10 +34,35 @@
 
 #rail {
     position: fixed;
-    top: 75%;
+    top: 45.4%;
     height: 30px;
     object-fit: cover;
     z-index: -1;
+}
+
+.imgDecor {
+    position: fixed;
+}
+
+#arbre1 {
+    bottom: 50%;
+    left: 10%;
+}
+
+#arbre2 {
+    bottom: 50%;
+    left: 20%;
+}
+
+#arbre3 {
+    bottom: 50%;
+    left: 60%;
+}
+
+#colline1 {
+    bottom: 51.5%;
+    right: 0;
+    width: 500px;
 }
 
 @keyframes deplacementImage {
