@@ -75,7 +75,7 @@ const MvtMensuelsChart = new Chart(MvtMensuelsCanvas, {
             {
                 label: 'Journées perdues par mois',
                 data: [], // Les données iront ici
-                fill: true,
+                fill: false,
                 backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
                 borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,

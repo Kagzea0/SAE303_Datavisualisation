@@ -1,31 +1,31 @@
 <svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_2_5)">
 <rect width="1920" height="1080" fill="#8EC9E9"/>
-<path d="M97.158 265.027L201.919 112.842L298.52 307.695L360.483 434.99L-6.84277e-07 414.47L97.158 265.027Z" fill="#7DBEEB"/>
-<path d="M291.869 389.53L396.63 237.346L408.759 312.402L493.231 432.199L555.194 559.494L194.711 538.974L291.869 389.53Z" fill="#7DBEEB"/>
-<path d="M818.238 249.865L941.546 162.575L1098.09 308.465L1160.05 435.76L675.539 400.219L706.213 308.465L818.238 249.865Z" fill="#7DBEEB"/>
-<path d="M1658.71 349.158L1719.74 182.732L1866.95 356.642L1962 470.45L1604.35 511.617L1658.71 349.158Z" fill="#7DBEEB"/>
-<path d="M596.249 327.948C830.748 305.781 972.646 323.722 1189.82 351.721L1409 525H479C508.591 415.521 515.92 335.542 596.249 327.948Z" fill="#7F946B"/>
-<path d="M99 194L470.517 346.768L774 548H99V194Z" fill="#7F946B"/>
-<rect y="525" width="1920" height="555" fill="#06A14D"/>
-<path d="M0 302L171.877 370.168L465 525H0V302Z" fill="#98C00A"/>
-<ellipse cx="1723.31" cy="81.5107" rx="72.2673" ry="57.175" fill="white"/>
-<ellipse cx="1851.62" cy="99.0133" rx="50.1447" ry="39.6724" fill="white"/>
-<ellipse cx="1801.47" cy="50.0061" rx="53.0943" ry="42.0061" fill="white"/>
-<rect x="1721.83" y="87.3448" width="132.736" height="51.3408" fill="white"/>
-<ellipse cx="1273.91" cy="143.049" rx="54.9693" ry="43.4895" fill="white"/>
-<ellipse cx="1371.51" cy="156.362" rx="38.1419" ry="30.1764" fill="white"/>
-<ellipse cx="1333.37" cy="119.085" rx="40.3856" ry="31.9515" fill="white"/>
-<rect x="1272.79" y="147.487" width="100.964" height="39.0518" fill="white"/>
-<ellipse cx="368.94" cy="80.8031" rx="38.6754" ry="30.5984" fill="white"/>
-<ellipse cx="299.877" cy="85.1744" rx="33.1503" ry="26.2272" fill="white"/>
-<rect x="299.877" y="85.1743" width="71.8258" height="26.2272" fill="white"/>
-<ellipse cx="845.048" cy="61.8111" rx="38.6754" ry="30.5984" fill="white"/>
-<ellipse cx="775.985" cy="66.1823" rx="33.1503" ry="26.2272" fill="white"/>
-<rect x="775.985" y="66.1823" width="71.8258" height="26.2272" fill="white"/>
-<ellipse cx="23.7962" cy="18.8266" rx="23.7962" ry="18.8266" transform="matrix(-1 0 0 1 614.387 109.291)" fill="white"/>
-<ellipse cx="20.3968" cy="16.1371" rx="20.3968" ry="16.1371" transform="matrix(-1 0 0 1 653.481 114.67)" fill="white"/>
-<rect width="44.193" height="16.1371" transform="matrix(-1 0 0 1 633.084 130.807)" fill="white"/>
+<path d="M97.158 378.066L201.919 225.881L298.52 420.734L360.483 548.029L-8.57018e-07 527.51L97.158 378.066Z" fill="#7DBEEB"/>
+<path d="M291.869 503.066L396.63 350.881L408.759 425.937L493.231 545.734L555.194 673.029L194.711 652.51L291.869 503.066Z" fill="#7DBEEB"/>
+<path d="M818.238 363.13L941.546 275.84L1098.09 421.73L1160.05 549.025L675.539 513.484L706.213 421.73L818.238 363.13Z" fill="#7DBEEB"/>
+<path d="M1658.71 462.603L1719.74 296.176L1866.95 470.087L1962 583.895L1604.35 625.061L1658.71 462.603Z" fill="#7DBEEB"/>
+<path d="M596.249 441.948C830.748 419.781 972.646 437.722 1189.82 465.721L1409 639H479C508.591 529.521 515.92 449.542 596.249 441.948Z" fill="#7F946B"/>
+<path d="M99 308L470.517 460.768L774 662H99V308Z" fill="#7F946B"/>
+<path d="M0 416L171.877 484.168L465 639H0V416Z" fill="#98C00A"/>
+<rect y="639" width="1920" height="441" fill="#06A14D"/>
+<ellipse cx="1723.31" cy="195.511" rx="72.2673" ry="57.175" fill="white"/>
+<ellipse cx="1851.62" cy="213.013" rx="50.1447" ry="39.6724" fill="white"/>
+<ellipse cx="1801.47" cy="164.006" rx="53.0943" ry="42.0061" fill="white"/>
+<rect x="1721.83" y="201.345" width="132.736" height="51.3408" fill="white"/>
+<ellipse cx="1273.91" cy="256.915" rx="54.9693" ry="43.4895" fill="white"/>
+<ellipse cx="1371.51" cy="270.228" rx="38.1419" ry="30.1764" fill="white"/>
+<ellipse cx="1333.37" cy="232.951" rx="40.3856" ry="31.9515" fill="white"/>
+<rect x="1272.79" y="261.353" width="100.964" height="39.0518" fill="white"/>
+<ellipse cx="368.94" cy="194.598" rx="38.6754" ry="30.5984" fill="white"/>
+<ellipse cx="299.877" cy="198.97" rx="33.1503" ry="26.2272" fill="white"/>
+<rect x="299.877" y="198.97" width="71.8258" height="26.2272" fill="white"/>
+<ellipse cx="845.048" cy="175.598" rx="38.6754" ry="30.5984" fill="white"/>
+<ellipse cx="775.985" cy="179.97" rx="33.1503" ry="26.2272" fill="white"/>
+<rect x="775.985" y="179.97" width="71.8258" height="26.2272" fill="white"/>
+<ellipse cx="23.7962" cy="18.8266" rx="23.7962" ry="18.8266" transform="matrix(-1 0 0 1 614.387 223)" fill="white"/>
+<ellipse cx="20.3968" cy="16.1371" rx="20.3968" ry="16.1371" transform="matrix(-1 0 0 1 653.481 228.379)" fill="white"/>
+<rect width="44.193" height="16.1371" transform="matrix(-1 0 0 1 633.084 244.516)" fill="white"/>
 </g>
 <defs>
 <clipPath id="clip0_2_5">

@@ -33,6 +33,7 @@
     </nav>
 
     <section id="MvtSoc">
+        <div id="FondMvtSoc"></div>
         <div id="DivCanMvtSoc">
             <div id="canvasContainer">
                 <!-- Canvas des investissements -->
@@ -45,26 +46,22 @@
         </div>
         <!-- Boutons pour changer le graphique (graphique annuel ou mensuel et de base ou croissant) -->
         <div id="DivButMvtSoc">
-            <p>Journées de travail perdues</p>
+            <p id="DivButMvtSocP1">Choisir votre type de données</p>
             <!-- but1 = mensuels -->
             <button id="butMensuels">Mensuellement</button>
             <!-- but2 = annuels -->
             <button id="butAnnuels">Annuellement</button>
 
-            <h2>Temps de travail annuel entre un fonctionnaire et un salarié sncf :</h2>
-            <p>Ces jeux de données exposent la comparaison du temps de travail annuel entre un fonctionnaire et un employé de la SNCF. 
-                Ces graphiques permettent d'évaluer les charges de travail de chacun, mais surtout d'exposer une grande inégalité entre ces deux corps de métiers.</p>
+            <h2>Temps de travail entre un <br> fonctionnaire et un salarié sncf</h2>
+            <p id="DivButMvtSocP2">Ces jeux de données exposent la comparaison du temps de travail annuel entre un fonctionnaire et un employé de la SNCF. 
+                Ces graphiques permettent d'évaluer les charges de travail de chacun, mais surtout d'exposer une grande inégalité entre ces deux entreprises.</p>
                 
         </div>
     </section>    
 
     <section id="JourRepos">
-        <div id="ButsJourRepos"><br>
-            <!-- Checkbox pour choisir entre les types de métiers -->
-            <label><input type="checkbox" id="butCadre" checked onchange="updateCanvas()"> Cadre</label><br><br>
-            <label><input type="checkbox" id="butExecution" onchange="updateCanvas()"> Exécution</label><br><br>
-            <label><input type="checkbox" id="butMaitrise" onchange="updateCanvas()"> Maîtrise</label>
-        </div>
+        <div id="FondJourRepos"></div>
+        <div id="textJourRepos">Nombre de dimanches posés par des :</div>
 
         <!-- Canvas avec un seul type de métier -->
         <canvas id="Cadre" aria-label="chart" role="img"></canvas>
@@ -78,29 +75,59 @@
 
         <!-- Canvas avec trois types de métiers -->
         <canvas id="CadreMaitriseExecution" aria-label="chart" role="img"></canvas>
+
+        <div id="ZoneTexteJourRepos">
+            <h2>Métier(s) apparaissant(s) :</h2>
+            <div id="ButsJourRepos"><br>
+                <!-- Checkbox pour choisir entre les types de métiers -->
+                <label id="labelButCadre">
+                    <input type="checkbox" id="butCadre" onchange="updateCanvas()"><label>Cadre</label>
+                    <span id="spanButCadre"></span>
+                </label><br><br>
+
+                <label id="labelButExecution">
+                    <input type="checkbox" id="butExecution" onchange="updateCanvas()"><label>Exécution</label> 
+                    <span id="spanButExecution"></span>
+                </label><br><br>
+
+                <label id="labelButMaitrise">
+                    <input type="checkbox" id="butMaitrise" onchange="updateCanvas()"><label>Maîtrise</label>
+                    <span id="spanButMaitrise"></span>
+                </label>
+            </div>
+        </div>
     </section>
 
     <section id="TTA">
+        <div id="FondTTA"></div>
         <canvas id="TempsTravailAnnuel" aria-label="chart" role="img"></canvas>
         <!-- Titre du canvas -->
         <div id="textTTA">Temps de travail annuel entre un fonctionnaire et un salarié à la SNCF</div>
         
         <div id="ZoneTextTTA">
-            <h2>Journées perdues liées aux mouvements sociaux :</h2>
-            <p>Ces jeux de données fournissent une analyse détaillée des journées perdues en raison des mouvements sociaux, 
-                ceci à échelle mensuel et annuel. Les graphiques illustrant ces données permettent de comprendre l'impact 
-                économique et social liés à ces incidents.</p>
+            <h2>Journées perdues liées aux mouvements sociaux :</h2><br>
+            <p>Ces jeux de données fournissent une analyse détaillée
+                des journées perdues en raison des mouvements sociaux
+                et ceci à échelle mensuel et annuel.
+                Les graphiques illustrant ces données permettent
+                de comprendre l'impact économique et social
+                liés à ces incidents.</p>
         </div>
     </section>
 
     <section id="Statistique">
+        <div id="FondStatistique"></div>
         <!-- <p>Statistique</p> -->
         <!-- Mettre l'image des statistiques -->
     </section>
 
     <section id="Infographie">
-        <!-- <p>Infographie</p> -->
-        <!-- Mettre l'image de l'infographie -->
+        <div id="FondInfographie"></div>
+        <img src="Images/Infographie.png" alt="Infographie" id="ImgInfographie">
+        <div id="ZoneTextInfog">
+            <h2>Infographie</h2>
+            <p></p>
+        </div>
     </section>
     
     <script>
