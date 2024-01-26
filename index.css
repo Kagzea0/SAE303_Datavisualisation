@@ -22,7 +22,7 @@ body {
 
 .image-container {
     position: absolute;
-    top: 45.5%;
+    top: 46%;
     transform: translateY(-50%);
     animation: deplacementImage 5s linear infinite;
 }
@@ -112,25 +112,45 @@ nav ul li:active, nav ul li a:active {
     display: none; /* Cache initialement la section */
     padding: 20px;
     border-radius: 10px;
+}  
+
+#FondMvtSoc {
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    z-index: 1;
+    width: 80%;
+    height: 70%;
     background-color: #E5E5E5;
+    border-radius: 35px;
+    opacity: .5;
 }
 
 #MvtAnnuels {
     position: fixed;
-    top: 35%;
+    top: 32.5%;
+    left: 12.5%;
+    z-index: 5;
     background-color: #E5E5E5;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 #MvtMensuels {
     position: fixed;
-    top: 35%;
+    top: 32.5%;
+    left: 12.5%;
+    z-index: 5;
     background-color: #E5E5E5;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 #textMvtSoc {
     position: absolute;
-    top: 5%;
-    left: 50%;
+    top: 2.5%;
+    left: 57.5%;
+    z-index: 5;
     font-size: 24px;
     transform: translateX(-50%);
     color: #111111;
@@ -138,11 +158,11 @@ nav ul li:active, nav ul li a:active {
 
 #DivButMvtSoc {
     position: fixed;
-    top: 25%;
-    right: 7.5%;
+    top: 20%;
+    right: 10%;
+    z-index: 5;
     width: 27.5%;
     height: 56.9%;
-    background-color: #E5E5E5;
     border-radius: 10px;
 }
 
@@ -157,6 +177,8 @@ nav ul li:active, nav ul li a:active {
 }
 
 #DivButMvtSoc button {
+    position: fixed;
+    top: 35%;
     height: 6%;
     width: 9%;
     border-radius: 10px;
@@ -170,15 +192,11 @@ nav ul li:active, nav ul li a:active {
 }
 
 #butMensuels {
-    position: fixed;
-    top: 40%;
-    right: 11.5%;
+    right: 14%;
 }
 
 #butAnnuels {
-    position: fixed;
-    top: 40%;
-    right: 22%;
+    right: 23.5%;
 }
 
 #DivButMvtSoc h2 {
@@ -194,6 +212,7 @@ nav ul li:active, nav ul li a:active {
     left: 10%;
     width: 80%;
     text-align: justify;
+    font-size: 20px;
 }
 
 /* JOURS DE REPOS */
@@ -241,7 +260,7 @@ nav ul li:active, nav ul li a:active {
     top: 3%;
     left: 52%;
     z-index: 5;
-    width: 50%;
+    width: 70%;
     font-size: 24px;
     transform: translateX(-50%);
     color: #111111;
@@ -259,13 +278,13 @@ nav ul li:active, nav ul li a:active {
 
 #ZoneTexteJourRepos h2 {
     position: fixed;
-    top: 25%;
+    top: 42.5%;
     right: 15%;
 }
 
 #ButsJourRepos {
     position: fixed;
-    top: 30%;
+    top: 47.5%;
     right: -2%;
     width: 30%;
     height: 45%;
@@ -354,7 +373,7 @@ nav ul li:active, nav ul li a:active {
 
 #textTTA {
     position: absolute;
-    top: 5%;
+    top: 9%;
     left: 50%;
     z-index: 5;
     width: 84%;
@@ -374,13 +393,16 @@ nav ul li:active, nav ul li a:active {
 }
 
 #ZoneTextTTA > h2 {
-    font-size: 30px;
+    position: relative;
+    left: 4.5%;
     width: 73%;
+    text-align: center;
 }
 
 #ZoneTextTTA > p {
     font-size: 20px;
     width: 80%;
+    text-align: justify;
 }
 
 /* INFOGRAPHIE */

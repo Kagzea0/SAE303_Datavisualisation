@@ -76,8 +76,8 @@ const MvtMensuelsChart = new Chart(MvtMensuelsCanvas, {
                 label: 'Journées perdues par mois',
                 data: [], // Les données iront ici
                 fill: false,
-                backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
-                borderColor: 'rgba(149, 0, 0, 1)',
+                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
+                borderColor: 'rgba(0, 61, 149, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -143,8 +143,8 @@ const ttaChart = new Chart(ttaCanvas, {
                 label: "Temps annuel d'heures de travail en France",
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Vert
-                borderColor: 'rgba(32, 149, 0, 1)',
+                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
+                borderColor: 'rgba(0, 61, 149, 1)',
                 borderWidth: 1,
                 tension: 0.1,
                 radius: 0, // Taille des bulles
@@ -155,8 +155,8 @@ const ttaChart = new Chart(ttaCanvas, {
                 label: "Temps annuel d'heures de travail à la SNCF",
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba( 255, 213, 102, 0.5)', // Jaune
-                borderColor: 'rgba(255, 213, 102, 1)',
+                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
+                borderColor: 'rgba(0, 61, 149, 1)',
                 borderWidth: 1,
                 tension: 0.1,
                 radius: 0, // Taille des bulles
@@ -222,11 +222,11 @@ const CadreChart = new Chart(CadreCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents cadre',
+                label: 'Cadre',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -289,11 +289,11 @@ const ExecutionChart = new Chart(ExecutionCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents execution',
+                label: 'Exécution',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Vert
+                borderColor: 'rgba(32, 149, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -346,7 +346,9 @@ function updateChartDataExecution(chart, data) {
     };
 
     chart.update(); // Mettre à jour le graphique
-}// Graphique Maitrise
+}
+
+// Graphique Maitrise
 const MaitriseCanvas = document.getElementById('Maitrise');
 const MaitriseChart = new Chart(MaitriseCanvas, {
     type: 'line',
@@ -354,11 +356,11 @@ const MaitriseChart = new Chart(MaitriseCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents Maitrise',
+                label: 'Maîtrise',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba( 255, 213, 102, 0.5)', // Jaune
+                borderColor: 'rgba(255, 213, 102, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -421,22 +423,22 @@ const CadreExecutionChart = new Chart(CadreExecutionCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents Cadre',
+                label: 'Cadre',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(150, 220, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
-                label: 'Nombre agents Execution',
+                label: 'Exécution',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Vert
+                borderColor: 'rgba(32, 149, 0, 1)',                
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -502,22 +504,22 @@ const CadreMaitriseChart = new Chart(CadreMaitriseCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents Cadre',
+                label: 'Cadre',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
-                label: 'Nombre agents Maitrise',
+                label: 'Maîtrise',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba( 255, 213, 102, 0.5)', // Jaune
+                borderColor: 'rgba(255, 213, 102, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -583,22 +585,22 @@ const MaitriseExecutionChart = new Chart(MaitriseExecutionCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents Maitrise',
+                label: 'Maîtrise',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba( 255, 213, 102, 0.5)', // Jaune
+                borderColor: 'rgba(255, 213, 102, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
-                label: 'Nombre agents Execution',
+                label: 'Exécution',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Vert
+                borderColor: 'rgba(32, 149, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
@@ -664,33 +666,33 @@ const CadreMaitriseExecutionChart = new Chart(CadreMaitriseExecutionCanvas, {
         labels: [], // Les dates iront ici
         datasets: [
             {
-                label: 'Nombre agents Cadre',
+                label: 'Cadre',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(149, 0, 0, 0.5)', // Rouge
+                borderColor: 'rgba(149, 0, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
-                label: 'Nombre agents Maitrise',
+                label: 'Maîtrise',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba( 255, 213, 102, 0.5)', // Jaune
+                borderColor: 'rgba(255, 213, 102, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
                 text: [] // Ajout d'une propriété text pour stocker le texte personnalisé
             },
             {
-                label: 'Nombre agents Execution',
+                label: 'Exécution',
                 data: [], // Les données iront ici
                 fill: true,
-                backgroundColor: 'rgba(0, 61, 149, 0.5)', // Bleu
-                borderColor: 'rgba(0, 61, 149, 1)',
+                backgroundColor: 'rgba(32, 149, 0, 0.5)', // Vert
+                borderColor: 'rgba(32, 149, 0, 1)',
                 borderWidth: 1,
                 radius: 0, // Taille des bulles
                 hoverRadius: 0, // Taille au survol (même taille que radius)
