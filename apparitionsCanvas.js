@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Initialisation du texte
     var textAnnuels = "Journées perdues par an";
-    var textMensuels = "Journées perdues par mois";
+    var textMensuels = "Journées perdues par mois";    
 
     var currentText = textAnnuels; // Texte actuel, initialisé avec le texte annuels
 

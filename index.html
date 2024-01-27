@@ -6,7 +6,8 @@
     <title>Chart JS</title>
     <link rel="stylesheet" href="index.css">
 </head>
-<body>  
+<body> 
+
     <!-- Image de fond et animation du train -->
     <div id="DecorEtTrain">
         <img src="Images/Décor.svg" alt="Background Image" id="bgImage" class="imgDecor">
@@ -23,7 +24,6 @@
 
     <nav>
         <ul>
-            <!-- <li><a href="#bbb">Mouvements sociaux</a></li> -->
             <li><a href="#MvtSoc">Mouvements sociaux</a></li>
             <li><a href="#JourRepos">Jour de repos</a></li>
             <li><a href="#TTA">Temps de travail</a></li>
@@ -38,7 +38,7 @@
                 <!-- Canvas des investissements -->
                 <canvas id="MvtAnnuels" aria-label="chart" role="img"></canvas>
                 <!-- Titre du canvas -->
-                <div id="textMvtSoc"></div>
+                <div id="textMvtSoc" class="titresCanvasSection"></div>
             </div>
             <!-- Canvas des collisions -->
             <canvas id="MvtMensuels" aria-label="chart" role="img"></canvas>
@@ -51,7 +51,6 @@
             <!-- but2 = annuels -->
             <button id="butAnnuels">Annuellement</button>
 
-            <h2>Temps de travail entre un <br> fonctionnaire et un salarié SNCF</h2>
             <p id="DivButMvtSocP2">Ces jeux de données fournissent une analyse détaillée des journées perdues en raison 
                 des mouvements sociaux et ceci à échelle mensuel et annuel. Les graphiques illustrant ces données permettent 
                 de comprendre l'impact économique et social liés à ces incidents.</p>
@@ -61,7 +60,7 @@
 
     <section id="JourRepos">
         <div id="FondJourRepos"></div>
-        <div id="textJourRepos">Nombre de dimanches posés par an dont le métier est :</div>
+        <div id="textJourRepos" class="titresCanvasSection">Nombre de dimanches posés par an dont le métier est</div>
 
         <!-- Canvas avec un seul type de métier -->
         <canvas id="Cadre" aria-label="chart" role="img"></canvas>
@@ -77,7 +76,7 @@
         <canvas id="CadreMaitriseExecution" aria-label="chart" role="img"></canvas>
 
         <div id="ZoneTexteJourRepos">
-            <h2>Métier(s) apparaissant(s) :</h2>
+            <p id="ZoneTexteJourReposP1">Métier(s) apparaissant</p>
             <div id="ButsJourRepos"><br>
                 <!-- Checkbox pour choisir entre les types de métiers -->
                 <label id="labelButCadre">
@@ -95,6 +94,10 @@
                     <span id="spanButMaitrise"></span>
                 </label>
             </div>
+
+            <p id="ZoneTexteJourReposP2">Ces jeux de données montrent en fonction des cases cochées le nombre de dimanches posés 
+                par an par la ou les catégories de métier(s) à la SNCF.</p>
+
         </div>
     </section>
 
@@ -102,10 +105,9 @@
         <div id="FondTTA"></div>
         <canvas id="TempsTravailAnnuel" aria-label="chart" role="img"></canvas>
         <!-- Titre du canvas -->
-        <div id="textTTA">Temps de travail annuel entre un fonctionnaire et un salarié à la SNCF</div>
+        <div id="textTTA" class="titresCanvasSection">Temps de travail annuel entre deux entreprises</div>
         
         <div id="ZoneTextTTA">
-            <h2>Journées perdues liées <br> aux mouvements sociaux</h2><br>
             <p>Ces jeux de données exposent la comparaison du temps de travail annuel 
                 entre un fonctionnaire et un employé de la SNCF. 
                 Ces graphiques permettent d'évaluer les charges de travail de chacun, 
@@ -113,8 +115,8 @@
         </div>
 
         <div id="ZoneStatsTTA">
-            <p>La moyenne du graphique du temps de travail annuel en France est de <b>1426.24</b> heures par an.</p><br>
-            <p>La moyenne du graphique du temps de travail annuel à la SNCF est de <b>1624</b> heures par an.</p><br>
+            <p>La moyenne du graphique du temps de travail annuel en France est de <b>1426.24</b> heures par an.</p>
+            <p>La moyenne du graphique du temps de travail annuel à la SNCF est de <b>1624</b> heures par an.</p>
             <p>La covariance entre ces deux graphiques est de <b>1371.29</b>.</p>
         </div>
     </section>
@@ -123,8 +125,8 @@
         <div id="FondInfographie"></div>
         <img src="Images/Infographie.png" alt="Infographie" id="ImgInfographie">
         <div id="ZoneTextInfog">
-            <h2>Infographie</h2>
-            <p>L'infographie ci-contre offre une représentation visuelle dynamique de la complexité du réseau ferroviaire français. 
+            <p id="ZoneTextInfogP1">Infographie</p>
+            <p id="ZoneTextInfogP2">L'infographie ci-contre offre une représentation visuelle dynamique de la complexité du réseau ferroviaire français. 
                 Les gares se démarquent par des points plus ou moins imposants en fonction de leur rôle dans le réseau. 
                 Tout comme les traits tissant la toile de ce même réseau, se différencient par leur couleur.  
                 Des couleurs foncés indiquent un trafic intense, tandis que des couleurs plus claires représentent 
